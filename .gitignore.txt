@@ -1,6 +1,0 @@
-.env
-.venv
-output
-/output
-\output
-.idea
