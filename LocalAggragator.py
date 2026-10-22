@@ -10,7 +10,7 @@ from jobspy import scrape_jobs
 # Configuration
 OUTPUT_DIR = Path("output")
 SITES = ["indeed", "linkedin", "zip_recruiter", "glassdoor"]
-SEARCH_TERMS = ["Helpdesk", "IT Support"]
+SEARCH_TERMS = ["Systems Administrator", "Network Engineer", "Network Administrator", "Network Analyst", "IT", "Helpdesk", "Security Engineer", "SOC", "NOC"]
 
 # Load cities
 gc = geonamescache.GeonamesCache()
@@ -24,6 +24,7 @@ us_cities = [
     }
     for city in cities.values()
     if city["countrycode"] == "US"
+       and city["admin1code"] == "AL"
     and city.get("population", 0) >= 100000
 ]
 
@@ -40,14 +41,10 @@ for city in us_cities:
                 site_name=SITES,
                 search_term=term,
                 location=f'{city["name"]}, {city["state"]}',
-                is_remote=True,
-                distance=30,
+                distance=50,
                 hours_old=24,
-                results_wanted=25,
                 country_indeed="USA",
             )
-
-            jobs = jobs[jobs["is_remote"] == True]
 
             if jobs.empty:
                 print(f"  No results for: {term}")
@@ -71,12 +68,12 @@ for city in us_cities:
     city_df = pd.concat(city_jobs, ignore_index=True)
 
     # Create output/jobs_by_city/AL/
-    state_dir = OUTPUT_DIR / "remote_jobs_by_city" / city["state"]
+    state_dir = OUTPUT_DIR / "jobs_by_city" / city["state"]
     state_dir.mkdir(parents=True, exist_ok=True)
 
     # Sanitize city name for Windows filenames
     safe_name = re.sub(r'[<>:"/\\|?*]', "_", city["name"])
-    output_file = state_dir / f"{safe_name}_remote_jobs.csv"
+    output_file = state_dir / f"{safe_name}_jobs.csv"
 
     city_df.to_csv(
         output_file,
@@ -98,7 +95,7 @@ if all_jobs:
             keep="first",
         )
 
-    master_file = OUTPUT_DIR / "all_remote_jobs.csv"
+    master_file = OUTPUT_DIR / "all_jobs.csv"
     master_file.parent.mkdir(parents=True, exist_ok=True)
 
     master_df.to_csv(master_file, index=False)
