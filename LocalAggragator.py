@@ -10,8 +10,8 @@ from jobspy import scrape_jobs
 # Configuration
 OUTPUT_DIR = Path("output")
 SITES = ["indeed", "linkedin", "zip_recruiter", "glassdoor"]
-SEARCH_TERMS = ["Systems Administrator", "Network Engineer", "Network Administrator", "Network Analyst", "IT", "Helpdesk", "Security Engineer", "SOC", "NOC"]
-STATE = "NC"
+SEARCH_TERMS = ["Systems Administrator", "Junior Network Engineer", "Junior Network Administrator", "Network Analyst", "IT", "Helpdesk", "Security Engineer", "SOC", "NOC", "Data Center"]
+STATE = "AL"
 
 # Load cities
 gc = geonamescache.GeonamesCache()
