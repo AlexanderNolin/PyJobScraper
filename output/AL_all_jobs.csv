@@ -1,0 +1,935 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_city,search_state,search_term
+gd-1010316197911,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316197911,,IT Specialist (Data Engineer),US Railroad Retirement Board,"Birmingham, AL, USA",2026-11-04,"fulltime, parttime",direct_data,yearly,90925.0,118204.0,USD,False,,,organic,,,National Agencies,https://www.glassdoor.com/Overview/W-EI_IE41513.htm,https://media.glassdoor.com/sql/41513/us-railroad-retirement-board-squarelogo-1511177762934.png,https://www.rrb.gov,"Chicago, IL",501 to 1000 Employees,Unknown / Non-Applicable,"If you've been working on the railroad all your livelong life, the US Railroad Retirement Board (RRB) will help take care of you after you retire. Serving railroad workers and their families in the US, the board manages retirement-survivor and unemployment-sickness benefit programs under the Railroad Retirement and Railroad Unemployment Insurance Acts. Annually, it administers more than $10 billion in retirement-survivor benefits to about 590,000 beneficiaries and more than $160 million in unemployment-sickness benefits to some 40,000 claimants. Established in the 1930s, the RRB acts as an independent arm of the federal government's executive branch, with more than 50 field offices across the US.",,,3.1,,,,Birmingham,AL,Systems Administrator
+li-4486380058,linkedin,https://www.linkedin.com/jobs/view/4486380058,,Windows & Endpoint Management Architect,AbilityLinks,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/abilitylinksorg,,,,,,,,,,,,,Birmingham,AL,Systems Administrator
+li-4470631445,linkedin,https://www.linkedin.com/jobs/view/4470631445,,DevOps Engineer,Kemper,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/kemperinsurance,,,,,,,,,,,,,Birmingham,AL,Systems Administrator
+li-4485099380,linkedin,https://www.linkedin.com/jobs/view/4485099380,,IT Field Service Technician,Hemmersbach,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://de.linkedin.com/company/hemmersbach,,,,,,,,,,,,,Birmingham,AL,Systems Administrator
+li-4487294324,linkedin,https://www.linkedin.com/jobs/view/4487294324,,Systems Support Coordinator - Start ASAP,Vaco by Highspring,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/vaco-by-highspring,,,,,,,,,,,,,Birmingham,AL,Systems Administrator
+li-4462094490,linkedin,https://www.linkedin.com/jobs/view/4462094490,,Platform Engineering Intern,Motion,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/motionindustries,,,,,,,,,,,,,Birmingham,AL,Systems Administrator
+li-4487287100,linkedin,https://www.linkedin.com/jobs/view/4487287100,,IT Service Desk Technician,Doeren Mayhew,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/doeren-mayhew,,,,,,,,,,,,,Birmingham,AL,Systems Administrator
+li-4469912227,linkedin,https://www.linkedin.com/jobs/view/4469912227,,Clinical Information Systems Student Intern - Summer 2027,Encompass Health,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/encompasshealth,,,,,,,,,,,,,Birmingham,AL,Systems Administrator
+li-4462084600,linkedin,https://www.linkedin.com/jobs/view/4462084600,,GRC/Cybersecurity Analyst Intern,Motion,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/motionindustries,,,,,,,,,,,,,Birmingham,AL,Systems Administrator
+li-4434594949,linkedin,https://www.linkedin.com/jobs/view/4434594949,,FSO - Tech Cons - Platforms - P&C Insurance - Guidewire - Technical Consultant - Manager,EY,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://uk.linkedin.com/company/ernstandyoung,,,,,,,,,,,,,Birmingham,AL,Systems Administrator
+gd-1010315950321,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315950321,,Network Model Import Engineer,SN Cloud Solutions,USA,2026-11-04,contract,direct_data,hourly,50.0,55.0,USD,True,,,sponsored,,,,https://www.glassdoor.com/Overview/W-EI_IE9305752.htm,,https://sncloudsolutions.com,"Frisco, TX",51 to 200 Employees,Unknown / Non-Applicable,,,,5.0,,,,Birmingham,AL,Network Engineer
+gd-1010316754208,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316754208,,SIEM Engineer,SYSTEMTEC,USA,2026-11-04,contract,direct_data,hourly,87.0,87.0,USD,True,,,sponsored,,,Business Consulting,https://www.glassdoor.com/Overview/W-EI_IE266176.htm,https://media.glassdoor.com/sql/266176/systemtec-squareLogo-1692649876927.png,https://www.systemtec.net,"Columbia, SC",51 to 200 Employees,Unknown / Non-Applicable,"Since inception in 1998, SYSTEMTEC has been providing professional technical consulting services to large and small organizations, across private and public sectors, and to vertical markets including healthcare, product engineering, government, financial services, energy, manufacturing and distribution.
+
+ Our expertise in recruiting is specific to technologies that include enterprise solutions, application development, business analysis, reporting, project management, quality assurance, testing, infrastructure, and technical support.",,,4.5,,,,Birmingham,AL,Network Engineer
+gd-1010315991384,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315991384,,Systems Analyst - Microsoft Affiliated Applications,UAB Medicine,,2026-11-04,fulltime,,yearly,0.0,0.0,,False,,,organic,,,,,,,,,,,,,,,,,Birmingham,AL,Network Analyst
+gd-1010315891791,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315891791,,Data Architect Sr,Southern Company,"Birmingham, AL, USA",2026-11-04,fulltime,direct_data,yearly,93376.0,146600.0,USD,False,,,organic,,,Energy & Utilities,https://www.glassdoor.com/Overview/W-EI_IE607.htm,https://media.glassdoor.com/sql/607/southern-company-squarelogo-1498509158960.png,https://www.southerncompany.com,"Atlanta, GA",10000+ Employees,Unknown / Non-Applicable,"A century ago, James Mitchell – engineer, builder, entrepreneur, and man of the world – traveled to the American South and made the first big bet for Southern Company.  Mitchell was so inspired by the hydro potential of Alabama’s rivers that he dreamed of developing a series of dams to electrify the Southeast.  To bring his dream to life, he sketched out a regional power network, raised money from British investors, and created the first of the three forerunner holding companies that would play prominent roles in Southern Company’s history.
+
+In the century since, Southern Company and its predecessor companies have faced every conceivable impediment to progress – natural and man-made disasters, a hostile takeover, financial challenges and numerous threats and attempts to pull its business apart and scramble the pieces.  Rather than being destroyed by these challenges, Southern Company grew stronger, more resilient, and more committed to its mission.  That Southern Company has not only survived for a century but also empowered the South to thrive is a reflection on the leaders who emerged to shepherd the company safely into tomorrow.
+
+Through expansions, customer growth, mergers, acquisitions and divestitures, today Southern Company is a leading energy company serving 9 million customers through its subsidiaries. The company provides clean, safe, reliable and affordable energy through electric operating companies in three states, natural gas distribution companies in four states, a competitive generation company serving wholesale customers across America, a leading distributed energy infrastructure company, a fiber optics network and telecommunications services. Southern Company brands are known for excellent customer service, high reliability and affordable prices below the national average.",,,4.1,,,,Birmingham,AL,Network Analyst
+gd-1010315848993,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315848993,,IT Systems Analyst,First Horizon Bank,"Birmingham, AL, USA",2026-11-04,fulltime,direct_data,yearly,70937.0,109247.0,USD,False,,,organic,,,Banking & Lending,https://www.glassdoor.com/Overview/W-EI_IE317187.htm,https://media.glassdoor.com/sql/317187/first-horizon-squarelogo-1572551112326.png,https://www.firsthorizon.com,"Memphis, TN",5001 to 10000 Employees,$1 to $5 billion (USD),"First Horizon National Corp. offers capital market services, regional banking and wealth management through our First Horizon family of companies including First Horizon Bank, FHN Financial and First Horizon Advisors.
+
+First Horizon Bank is committed to making your banking experience the best it can be with innovative, convenient services and helpful, knowledgeable people. From your first checking account to the loan you need to build a home or business, we are committed to helping you at every stage of your financial life.
+
+With a network of approximately 250 bank locations across the Southeast, we make it easy to help you take good care of your money.",,,3.5,,,,Birmingham,AL,Network Analyst
+li-4486096979,linkedin,https://www.linkedin.com/jobs/view/4486096979,,Senior Traffic Engineer,AECOM,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/aecom,,,,,,,,,,,,,Birmingham,AL,Network Analyst
+li-4487277059,linkedin,https://www.linkedin.com/jobs/view/4487277059,,Solutions Manager,Deloitte,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/deloitte,,,,,,,,,,,,,Birmingham,AL,Network Analyst
+gd-1010316513192,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316513192,,IT Manager,"Inteva Products, LLC","Birmingham, AL, USA",2026-11-04,fulltime,direct_data,yearly,83968.0,129135.0,USD,False,,,organic,,,Machinery Manufacturing,https://www.glassdoor.com/Overview/W-EI_IE277719.htm,https://media.glassdoor.com/sql/277719/inteva-products-squarelogo.png,https://www.intevaproducts.com,"Troy, MI",5001 to 10000 Employees,$1 to $5 billion (USD),"Inteva Products is a leading global supplier of innovative and environmentally friendly products to the vehicle manufacturing industry. Employees working at Inteva Products work to deliver quality products to automotive, commercial, defense, marine, and consumer markets across the world. Inteva is focused on sustainable growth, excellent customer service, and being a best place to work for employees. Working at Inteva Products comes with benefits like a 401(K) retirement plan, competitive insurance, and paid training.",,,3.8,,,,Birmingham,AL,IT
+gd-1010316424443,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316424443,,Site Support Engineer - Senior (Birmingham),Govcio LLC,"Birmingham, AL, USA",2026-11-04,fulltime,direct_data,yearly,62000.0,72000.0,USD,False,,,organic,,,,https://www.glassdoor.com/Overview/W-EI_IE7067907.htm,https://media.glassdoor.com/sql/7067907/govcio-squarelogo-1655884433624.png,http://www.govcio.com,"Fairfax, VA",1001 to 5000 Employees,Unknown / Non-Applicable,"GovCIO was founded by a Navy veteran and a government consultant who saw a need for fresh ideas in the government IT space and had the desire to make an impact.
+
+Sitting at a kitchen table, they built GovCIO. Together, they created a unique organization that combines extensive Federal experience and innovative and disruptive approaches with a caring, inclusive culture that puts customers before profit.
+
+While our leadership has changed, we’re 1,000 times bigger – with well over 2,000 employees.
+
+And while we definitely don’t fit at a kitchen table anymore (or at any of our first three downtown D.C. offices for that matter), the core of what makes us who we are still remains.
+
+Great People Do Great Things
+
+Our people make us who we are.
+
+We pride ourselves on our ability to recruit the best of the best in the IT space. But, it takes more than technical expertise to be a GovCIO “Transformer”.
+
+Our people not only believe in our mission but are also excited to be a part of our unique team. We look for passion, a positive attitude, emotional intelligence, and high integrity in all our prospective employees.
+
+It’s simple— great people do great things— for our customers, our culture, and our ability to attract other great people.
+
+Our Pursuit of Workplace Happiness
+
+We spend a lot of time at work, and it’s a lot more gratifying when you’re comfortable being yourself, able to treat co-workers like friends, and you actually want to be there.
+
+GovCIO is filled with amazing people who are silly, passionate, joyful, and funny; and we’ve worked hard to cultivate a culture that allows our amazing people to do amazing work.
+
+Regardless of whether you work in our offices or remotely, we strive to foster a fun, welcoming, and empowering work environment that makes you want to go to work each day.
+
+And when you’re happy at work, you do your best work, which is a win for everyone- you, us, and our customers.",,,3.6,,,,Birmingham,AL,IT
+gd-1010316121886,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316121886,,"Manager, IT Planning & Delivery",Kemper Insurance,"Birmingham, AL, USA",2026-11-04,fulltime,direct_data,yearly,99000.0,164800.0,USD,False,,,organic,,,Insurance Carriers,https://www.glassdoor.com/Overview/W-EI_IE3676.htm,https://media.glassdoor.com/sql/3676/kemper-squarelogo-1568297895404.png,https://www.kemper.com,"Chicago, IL",5001 to 10000 Employees,$25 to $100 million (USD),"Kemper is one of the nation’s leading specialized insurers, providing affordable and easy-to-use insurance solutions through our Auto and Life brands. We’re committed to helping individuals and families protect what matters most and delivering on our promises when our customers need us.
+
+We believe our people do their best work when they have the opportunity to make a difference. We foster a culture of accountability and collaboration where strong performance is recognized and different perspectives are valued. Whether you’re looking to deepen your expertise, explore new opportunities, or grow in your career, Kemper has opportunities for you.
+
+We also continue to find better ways to serve our customers and strengthen our business. From using data and technology in new ways to improving how we work every day, our associates are helping move Kemper forward—solving problems, challenging assumptions and turning good ideas into meaningful improvements for our customers and company.
+",,,3.4,,,,Birmingham,AL,IT
+gd-1010316394748,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316394748,,Technical Support Specialist 3 -4P/912,4P Consulting Inc.,"Birmingham, AL, USA",2026-11-04,fulltime,direct_data,yearly,58179.0,95272.0,USD,False,,,organic,,,,https://www.glassdoor.com/Overview/W-EI_IE3145890.htm,https://media.glassdoor.com/sql/3145890/4p-consulting-squarelogo-1694519592518.png,,"Marietta, GA",1 to 50 Employees,$1 to $5 million (USD),,,,4.6,,,,Birmingham,AL,IT
+in-438c19a02c57f1a8,indeed,https://www.indeed.com/viewjob?jk=438c19a02c57f1a8,https://www.appone.com/applinkportal.asp?r_id=7225746&AdCode=Indeed1090,IT Manager,Inteva Products,"Birmingham, AL, USA",2026-11-04,fulltime,,,,,,False,,,,,"**Location: Greater Birmingham, Alabama Area**
+
+**This position will support the launch of a new manufacturing facility in the southwest Birmingham metropolitan area.**
+
+* Responsible for ensuring the continuous availability of the communications and network information systems environment at the facility.
+* Configure, maintain, control, troubleshoot, and monitor the facility's LAN resources.
+* Provide first-level support for all processes and manage the plant IT team.
+* Coordinate with Corporate and Shared Services Information Technology team members to configure and maintain the local voice and data communications environment.
+* Set up and maintain voice and data communications systems to include configuration and tuning, upgrades, performance monitoring, and usage reporting.
+* Analyze technology trends in order to provide recommendations for the improvement, implementation, and/or execution of appropriate information systems solutions.
+* Adheres to and enforces corporate IT policies, procedures, and guidelines.
+* Provide on-going definition and recommendation of standard and facility-unique systems.
+* Provide input for the monthly activity report and other status reports, as required.
+* Document applications systems, as required.
+* Ensure a strong working relationship with key business function users and management.
+* Lead and coordinate IT projects from planning through implementation, ensuring delivery within scope, budget, and schedule.",Industrial Manufacturing,https://www.indeed.com/cmp/Inteva-Products,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3789285b1ecb6d860b78fbcd4afd339d,https://www.intevaproducts.com/,"Troy, MI","10,000+",$1B to $5B (USD),,,,3.4,467.0,,,Birmingham,AL,IT
+in-fa5dbeb88fbed322,indeed,https://www.indeed.com/viewjob?jk=fa5dbeb88fbed322,https://recruiterflow.com/4pconsultinginc/jobs/1103?source=indeed&utm_channel=recruiterflow-posting&location=1,Technical Support Specialist 3 -4P/912,4P Consulting Inc.,"Birmingham, AL, USA",2026-11-04,fulltime,,,,,,False,,,,,"**Title:** **Technical Support Specialist III – Energy Management Systems** 
+**Client:** **Southern Company Services** 
+**Location:** **Birmingham, AL** 
+**Contract:** **2 Years** 
+**Schedule:** **24x7x365 rotating shift environment** 
+**Shift Length:** **8- or 12-hour shifts, including nights, weekends, and holidays**
+================================================================================================================================================================================================================================================================================================================================
+
+**Job Summary**
+---------------
+
+We are seeking a **Technical Support Specialist III – Energy Management Systems (EMS)** to provide frontline technical support for critical SCADA and Energy Management Systems.
+
+This position is part of a contracted **24x7x365 operations team** responsible for system monitoring, diagnostics, incident response, application support, customer communication, and coordination with technical support personnel and management.
+
+The ideal candidate will have experience supporting critical IT or operational systems and be comfortable working in a high-availability, regulated environment.
+
+**Key Responsibilities**
+------------------------
+
+* Monitor primary **SCADA and ancillary EMS systems** for health, performance, and availability.
+* Provide frontline diagnostics and problem resolution for EMS applications and computer systems.
+* Coordinate repair and troubleshooting activities with EMS personnel and other technical support groups.
+* Notify key customers regarding system outages, incidents, and events affecting critical systems.
+* Track and document incidents and support cases through completion.
+* Follow established knowledge-based troubleshooting procedures.
+* Adhere to formal Change Management processes.
+* Support Business Continuity and Disaster Recovery systems.
+* Maintain compliance with electronic and physical access requirements.
+* Communicate operational issues clearly to customers, technical teams, coordinators, and management.
+* Prioritize incidents based on criticality and potential impact to the Bulk Power System.
+* Provide feedback regarding process improvements and recurring customer issues.
+* Maintain strong working relationships with transmission control center personnel and other key customers.
+
+**Required Qualifications**
+---------------------------
+
+* Formal education in **Computer Science, Information Technology, or a related field** , or equivalent professional experience.
+* Experience supporting computer systems, applications, or technical operations.
+* Strong troubleshooting and critical-thinking skills.
+* Excellent written and verbal communication skills.
+* Strong customer-service skills.
+* Ability to work effectively in a team-oriented and potentially high-stress environment.
+* Ability to multitask and prioritize incidents based on operational impact.
+* Ability to follow documented procedures and Change Management processes.
+* Ability to work rotating shifts, including:
+
+  + Days
+  + Nights
+  + Weekends
+  + Holidays
+
+**Technical Knowledge**
+-----------------------
+
+Working knowledge or experience with the following is preferred:
+
+* Windows operating systems
+* AIX
+* UNIX-based operating systems
+* Distributed computer networks
+* SCADA systems
+* Energy Management Systems
+* Business Continuity systems
+* Disaster Recovery environments
+* Incident and case-management processes
+
+**Compliance Requirements**
+---------------------------
+
+Candidates must be able to comply with applicable regulatory and security requirements, including:
+
+* Critical Infrastructure Protection (CIP)
+* Sarbanes-Oxley requirements
+* Federal regulatory compliance requirements
+* Electronic and physical access policies
+* Federal Energy Regulatory Commission Standards of Conduct
+* Southern Company Separation Protocol
+* Southern Company Insider Threat Program requirements
+
+Enhanced background screening and drug screening may be required.
+
+**Work Requirements**
+---------------------
+
+* This position operates in a **24x7x365 environment** .
+* Shifts may be 8 or 12 hours.
+* Schedule rotates between day and night shifts.
+* Weekend and holiday coverage is required.
+* During severe weather events, personnel may be required to remain local to or sequestered near the control center.
+
+**Key Skills**
+--------------
+
+**Energy Management Systems | EMS | SCADA | Technical Support | Application Support | Windows | UNIX | AIX | Incident Management | Change Management | CIP Compliance | Disaster Recovery | Business Continuity | Critical Infrastructure | 24x7 Operations | Bulk Power System**",,https://www.indeed.com/cmp/4p-Consulting-Inc.,,,,,,,,,,,,,Birmingham,AL,IT
+in-49300e261d95847a,indeed,https://www.indeed.com/viewjob?jk=49300e261d95847a,https://careers.govcio.com/careers-home/jobs/9233/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f,Site Support Engineer - Senior (Birmingham),GovCIO,"Birmingham, AL, USA",2026-11-04,fulltime,direct_data,yearly,62000.0,72000.0,USD,False,,,,,"Overview:
+
+GovCIO is currently hiring for a Site Support Engineer - Senior. This position will be located in Birmingham, AL and will be an onsite.
+
+Responsibilities:  
+
+* Leads IT support at the site level, handling escalated tickets and critical system issues
+* Mentors junior engineers and implements IT best practices
+* Ensures operational uptime and reliable IT services
+
+Qualifications:
+
+High School with 6 years (or commensurate experience)
+
+Required Skills and Experience
+
+* 6 years experience in IT support
+* Possesses expert-level IT field support and leadership skills, enabling the management and direction of complex service request fulfillment and network/computer systems administration across multiple operating systems
+* Demonstrates advanced proficiency in mobile device support, intricate desk-side tasks, and deployment strategies
+* Possesses the ability to provide comprehensive IT support for TSA airport staff, regional management staff, TSA executives
+* Exhibits leadership in evaluating service performance, actively managing and documenting tickets, ensuring high-quality resolution, system optimization, and recommending significant changes for overall service delivery
+* Skilled at applying lessons learned for the refinement of Knowledge Base (KB) articles in support of continuous process improvement
+* Demonstrates exceptional interpersonal and communication skills, strategic thinking for technology assignments, applies advanced troubleshooting expertise, and demonstrates strong leadership to ensure high-quality resolution and system optimization across multiple tasks
+
+Clearance Required: US citizenship is required to attain and maintain a DHS/TSA clearance
+
+  
+Posted Salary Range: USD $62,000.00 - USD $72,000.00 /Yr.",,https://www.indeed.com/cmp/Govcio,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a6320391792d3ce90b9f57b2ef448b07,https://govcio.com/,,,,,,,3.6,62.0,,,Birmingham,AL,IT
+li-4476476728,linkedin,https://www.linkedin.com/jobs/view/4476476728,,SAP - OTC - Senior Manager - Consulting - Location OPEN,EY,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://uk.linkedin.com/company/ernstandyoung,,,,,,,,,,,,,Birmingham,AL,IT
+li-4486363993,linkedin,https://www.linkedin.com/jobs/view/4486363993,,Application Developer,AbilityLinks,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/abilitylinksorg,,,,,,,,,,,,,Birmingham,AL,IT
+li-4485086206,linkedin,https://www.linkedin.com/jobs/view/4485086206,,Master Data Management (MDM) Manager,"STM Consulting, Inc.","Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/stmconsultinginc,,,,,,,,,,,,,Birmingham,AL,IT
+li-4479083795,linkedin,https://www.linkedin.com/jobs/view/4479083795,,Lead Test Data Management Engineer,Huntington National Bank,"Hoover, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/huntington-national-bank,,,,,,,,,,,,,Birmingham,AL,IT
+li-4461506704,linkedin,https://www.linkedin.com/jobs/view/4461506704,,Information Technology Auditor - Senior Consultant,Deloitte,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/deloitte,,,,,,,,,,,,,Birmingham,AL,IT
+li-4486398441,linkedin,https://www.linkedin.com/jobs/view/4486398441,,Geographic Information Systems Technician,Brooksource,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/brooksource,,,,,,,,,,,,,Birmingham,AL,IT
+li-4485070545,linkedin,https://www.linkedin.com/jobs/view/4485070545,,Sales Manager-Sales System Engineer Ter,AT&T,"Hoover, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/att,,,,,,,,,,,,,Birmingham,AL,IT
+li-4486373864,linkedin,https://www.linkedin.com/jobs/view/4486373864,,"Customer Support Specialist (Birmingham, AL)",Seneca Resources,"Irondale, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/seneca-resources-inc-,,,,,,,,,,,,,Birmingham,AL,Helpdesk
+li-4470473748,linkedin,https://www.linkedin.com/jobs/view/4470473748,,"Specialist, Benefits - Global Industrial",Motion,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/motionindustries,,,,,,,,,,,,,Birmingham,AL,Helpdesk
+li-4486396211,linkedin,https://www.linkedin.com/jobs/view/4486396211,,Transportation Emergency Roadside Service Coordinator,Action Resources,"Hanceville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/action-resources-inc,,,,,,,,,,,,,Birmingham,AL,Helpdesk
+li-4487285411,linkedin,https://www.linkedin.com/jobs/view/4487285411,,Customer Service  (SAP Required),PANGEATWO,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/pangeatwo,,,,,,,,,,,,,Birmingham,AL,Helpdesk
+li-4470639715,linkedin,https://www.linkedin.com/jobs/view/4470639715,,Field Service Technician,Motion,"Birmingham, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/motionindustries,,,,,,,,,,,,,Birmingham,AL,Helpdesk
+gd-1010316117043,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316117043,,Enterprise IT Support Specialist,Koniag Government Services,"Huntsville, AL, USA",2026-11-04,fulltime,direct_data,yearly,115000.0,130000.0,USD,False,,,organic,,,Business Consulting,https://www.glassdoor.com/Overview/W-EI_IE5399852.htm,https://media.glassdoor.com/sql/5399852/koniag-government-services-squarelogo-1644914065392.png,https://www.koniag-gs.com/,"Chantilly, VA",Unknown,Unknown / Non-Applicable,,,,4.5,,,,Huntsville,AL,Systems Administrator
+li-4485098124,linkedin,https://www.linkedin.com/jobs/view/4485098124,,Server Administrator II,Agile Defense,"Redstone Arsenal, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/agiledefense,,,,,,,,,,,,,Huntsville,AL,Systems Administrator
+li-4485097161,linkedin,https://www.linkedin.com/jobs/view/4485097161,,Server Administrator III,Agile Defense,"Redstone Arsenal, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/agiledefense,,,,,,,,,,,,,Huntsville,AL,Systems Administrator
+li-4487229803,linkedin,https://www.linkedin.com/jobs/view/4487229803,,System Engineer (MSP),Decatur-Morgan County Chamber of Commerce,"Decatur, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/decatur-morgan-county-chamber-of-commerce,,,,,,,,,,,,,Huntsville,AL,Systems Administrator
+li-4487239790,linkedin,https://www.linkedin.com/jobs/view/4487239790,,Field Service Expert - Huntsville Bench,SAIC,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/saicinc,,,,,,,,,,,,,Huntsville,AL,Systems Administrator
+li-4487290677,linkedin,https://www.linkedin.com/jobs/view/4487290677,,Mgr IT Systems,Huntsville Hospital,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/huntsville-hospital,,,,,,,,,,,,,Huntsville,AL,Systems Administrator
+li-4487259145,linkedin,https://www.linkedin.com/jobs/view/4487259145,,Cloud Engineer (Azure),Open Systems Technologies Corporation,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/open-systems-technologies-corporation,,,,,,,,,,,,,Huntsville,AL,Systems Administrator
+li-4487277349,linkedin,https://www.linkedin.com/jobs/view/4487277349,,Project Manager - Systems,Robert Half,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/robert-half-international,,,,,,,,,,,,,Huntsville,AL,Systems Administrator
+li-4479058932,linkedin,https://www.linkedin.com/jobs/view/4479058932,,Human Resources Information Systems (HRIS) Specialist,"Y-tec Keylex Toyotetsu Alabama, Inc. (YKTA)","Madison, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/ykta,,,,,,,,,,,,,Huntsville,AL,Systems Administrator
+li-4487234567,linkedin,https://www.linkedin.com/jobs/view/4487234567,,System Support Specialist,Leidos,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/leidos,,,,,,,,,,,,,Huntsville,AL,Systems Administrator
+li-4485069832,linkedin,https://www.linkedin.com/jobs/view/4485069832,,"Network Engineer, Deployment & Support",Meta,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/meta,,,,,,,,,,,,,Huntsville,AL,Systems Administrator
+li-4486398215,linkedin,https://www.linkedin.com/jobs/view/4486398215,,CI/CD Pipeline Developer with Security Clearance,"OASYS, INC.","Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/oasys-inc-,,,,,,,,,,,,,Huntsville,AL,Systems Administrator
+li-4487231666,linkedin,https://www.linkedin.com/jobs/view/4487231666,,Enrollment Systems Administrator,Decatur-Morgan County Chamber of Commerce,"Athens, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/decatur-morgan-county-chamber-of-commerce,,,,,,,,,,,,,Huntsville,AL,Systems Administrator
+li-4433523573,linkedin,https://www.linkedin.com/jobs/view/4433523573,,MES Software Engineer,Rockwell Automation,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/rockwell-automation,,,,,,,,,,,,,Huntsville,AL,Systems Administrator
+gd-1010316281137,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316281137,,"Network Engineer, Deployment & Support",Meta,"Huntsville, AL, USA",2026-11-04,,direct_data,yearly,162000.0,227000.0,USD,False,,,organic,,,Internet & Web Services,https://www.glassdoor.com/Overview/W-EI_IE40772.htm,https://media.glassdoor.com/sql/40772/meta-squareLogo-1636117276319.png,https://www.metacareers.com,"Menlo Park, CA",10000+ Employees,$10+ billion (USD),"Meta is building the future of human connection and the technology that makes it possible. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. ",,,3.5,,,,Huntsville,AL,Network Engineer
+gd-1010316751474,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316751474,,General Engineer,US Missile Defense Agency,"Redstone Arsenal, USA",2026-11-04,fulltime,direct_data,yearly,130987.0,197200.0,USD,False,,,organic,,,Aerospace & Defense,https://www.glassdoor.com/Overview/W-EI_IE14798.htm,https://media.glassdoor.com/sql/14798/us-department-of-defense-squarelogo.png,https://www.defense.gov,"Washington, DC",10000+ Employees,$10+ billion (USD),"No matter how you measure it, by aircraft, ships, or active-duty military personnel, the US Department of Defense (DoD) is big. Except for Social Security, the Department of Defense -- comprising the Army, Navy, Air Force, Marines, National Guard, Reserves, and more than a dozen defense agencies -- is the largest component of US government spending. The 2012 budget for the Department of Defense is more than $670 billion, 18% of which will be used to fund the ongoing military engagements in Afghanistan and Iraq. The DoD maintains a force of about 1.4 million active duty service members and operates thousands of facilities around the world.",,,3.9,,,,Huntsville,AL,Network Engineer
+gd-1010316403750,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316403750,,Senior Cyber Security Engineer / ISSO,Parsons,"Huntsville, AL, USA",2026-11-04,,direct_data,yearly,134100.0,241400.0,USD,False,,,organic,,,Information Technology Support Services,https://www.glassdoor.com/Overview/W-EI_IE4006.htm,https://media.glassdoor.com/sql/4006/parsons-corporation-squarelogo-1586357018632.png,https://www.parsons.com,"Centreville, VA",10000+ Employees,$1 to $5 billion (USD),"Parsons (NYSE: PSN) is a leading technology firm driving the future of defense, intelligence, and critical infrastructure. By combining unique technologies with deep domain expertise across cybersecurity, missile defense, space, connected infrastructure, and smart cities, we're providing tomorrow's solutions today.
+
+With a history of disruption beginning in 1944, we apply our distinct perspective to help our customers confront the issues of tomorrow in every domain—land, sea, air, space, and cyber. Our range of capabilities and our global network of resources lets us layer and integrate solutions to respond to any challenge with unmatched agility. In a time of rapid change, we see infinite sources of inspiration to fuel our creativity and enable the innovation necessary to accomplish our quest of delivering a better world. 
+
+For more about Parsons, visit us at parsons.com and follow our quest on Facebook, Instagram, Twitter, and LinkedIn.",,,3.9,,,,Huntsville,AL,Network Engineer
+gd-1010316261299,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316261299,,Cybersecurity Operations Analyst (CSSP),COLSA Corporation,"Huntsville, AL, USA",2026-11-04,,direct_data,yearly,60400.0,88159.0,USD,False,,,organic,,,Aerospace & Defense,https://www.glassdoor.com/Overview/W-EI_IE3131.htm,https://media.glassdoor.com/sql/3131/colsa-squarelogo-1527684473557.png,http://www.colsa.com,"Huntsville, AL",1001 to 5000 Employees,$100 to $500 million (USD),We are an information and engineering services company. We pride ourselves in remaining a leader in innovative technologies and maintaining our commitment to customer service above all else. ,,,4.3,,,,Huntsville,AL,Network Engineer
+gd-1010316154499,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316154499,,Information & Operational Technology Analyst,Cintel Inc,"Huntsville, AL, USA",2026-11-04,fulltime,direct_data,yearly,58816.0,83937.0,USD,False,,,organic,,,National Agencies,https://www.glassdoor.com/Overview/W-EI_IE2874046.htm,https://media.glassdoor.com/sql/2874046/cintel-squarelogo-1586355225787.png,https://www.cintel-inc.com,"Huntsville, AL",1 to 50 Employees,$1 to $5 million (USD),"Cintel, Inc. is a Small Business with corporate offices in Huntsville, AL and Sterling Heights, MI providing strategies and services to support an array of Government and Commercial clients in Cyber Security, Modeling and Simulation, Machine Learning/AI, Software Development, Data Science, Tactical Systems, Energy, Facilities &amp; Infrastructure, and Programmatic support. 
+
+We offer our clients nimble, unique, and value focused solutions with an emphasis on people, connectivity, communication, and team work. Our team believes that people drive solutions. By connecting people, information, teams, and experience we deliver solutions that respond to customer needs. 
+
+Our people create solutions for our clients.",,,4.9,,,,Huntsville,AL,Network Engineer
+in-2c8265986516039a,indeed,https://www.indeed.com/viewjob?jk=2c8265986516039a,https://www.usajobs.gov:443/job/891538200,General Engineer,United States Department Of Defense,"Redstone Arsenal, AL, USA",2026-11-04,fulltime,direct_data,yearly,130987.0,197200.0,USD,False,,,,DHRC-DMDAHR@DLA.MIL,"**Summary**
+-----------
+
+This position is part of the Department of War (DoW), Missile Defense Agency (MDA). The incumbent will be responsible for serving as a General Engineer for The Engineering Directorate supporting Command & Control, Battle Management & Communications (DCC).
+  
+  
+.
+
+Learn more about this agency
+
+  
+
+**This job is open to**
+-----------------------
+
+### **The public**
+
+U.S. Citizens, Nationals or those who owe allegiance to the U.S.
+
+### **Veterans**
+
+Veterans of the U.S. Armed Forces or a spouse, widow, widower or parent of a veteran, who may be eligible for derived preference
+
+### **Military spouses**
+
+Military spouses of active duty service members or whose spouse is 100 percent disabled or died on active duty.
+
+### **Clarification from the agency**
+
+All U.S. Citizens and Special Hiring authorities to include Military Spouses, and Veterans
+
+  
+
+**Duties**
+----------
+
+This is a Direct Hire Authority (DHA) solicitation utilizing the DHA for Acq Demo Business and Technical Management to recruit and appoint qualified candidates to positions in the competitive service.  
+  
+  
+  
+As a General Engineer at the NH-0801-4 broadband level, some of your typical work assignments may include:
+
+* Plan multiple integration efforts for Missile Defense System (MDS) sites and implement new communication requirements.
+* Manages the technical and operational requirements for the Protected Anti-Scintillation Anti-Jam Wide-band Net-Centric System.
+* Approve Defense Information Systems Agency Store Front circuit requests and evaluate and approve circuit test reports.
+* Engineer new MDS communications paths, including Satellite Communications (SATCOM) solutions for disadvantaged MDS sites.
+* Review and approve Contract Data Requirements LIst (CDRLs) submitted by prime contractors.
+* Represents MDS SATCOM requirements to the wider DoW SATCOM community and develop SATCOM requirements.
+
+  
+
+**Requirements**
+----------------
+
+### **Conditions of employment**
+
+* Must be a U.S. Citizen
+* Occasional Travel
+* Work Schedule: Full-time
+* Males born after 12-31-59 must be registered for Selective Service
+* Suitable for Federal employment, determined by a background investigation
+* May be required to successfully complete a probationary period
+* Overtime: Occasionally
+* Tour of Duty: Flexible
+* Recruitment Incentives: No
+* Fair Labor Standards Act (FLSA): Exempt
+* Financial Disclosure: Required
+* Telework Eligibility: This position is situational telework eligible.
+* This position is subject to an initial drug screening, and random testing thereafter. You may be required to sign a “Drug Test Statement of Understanding” if you are selected for this position.
+* This is an acquisition position coded Practitioner in Engineering and Technical Management. Incumbent must obtain mandatory Back-to-Basics (BtB) certification within 60 months of entry into position.
+* Incumbent must acquire 80 Continuous Learning Points every 24 months.
+* This is a Critical Acquisition Position. Incumbent will be required to sign a written tenure agreement to remain, for a minimum of three years, in the Federal Service in the Critical Acquisition Position.
+* This position may require Security Cooperation certification at the Advanced level IAW 10 U.S. Code (U.S.C), section 384, “Department of Defense security cooperation workforce development.
+* If required, certification must be accomplished within timelines prescribed, 60 months of entry into this position.
+
+### **Qualifications**
+
+You may qualify at the NH-04 Broadband Level, if you fulfill the following qualifications:
+  
+  
+A. One year of specialized experience equivalent to the NH-03/GS-13 grade level in the Federal service as listed below and must meet 3 of the 5 specialized experience listed below to be qualified:
+
+* Experience in network engineering and complex global command and control systems.
+* Experience in the engineering of communications systems to include satellite communications technologies and equipment.
+* Experience with terrestrial network transport capabilities and technology.
+* Experience with Software Defined Networking (SDN)
+* Experience with Optical transport technologies.
+
+  
+Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community, student, social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.  
+  
+  
+  
+In addition to meeting qualifications, your application package must reflect the applicable experience to meet the Individual Occupational Requirements for the 0801, series as listed below:
+  
+https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualification-standards/0800/files/all-professional-engineering-positions-0800.pdf
+  
+  
+A. Degree: Engineering. To be acceptable, the program must: (1) lead to a bachelor's degree in a school of engineering with at least one program accredited by ABET; or (2) include differential and integral calculus and courses (more advanced than first-year physics and chemistry) in five of the following seven areas of engineering science or physics: (a) statics, dynamics; (b) strength of materials (stress-strain relationships); (c) fluid mechanics, hydraulics; (d) thermodynamics; (e) electrical fields and circuits; (f) nature and properties of materials (relating particle and aggregate structure to properties); and (g) any other comparable area of fundamental engineering science or physics, such as optics, heat transfer, soil mechanics, or electronics.
+  
+  
+OR
+  
+B. Combination of education and experience - college-level education, training, and/or technical experience that furnished (1) a thorough knowledge of the physical and mathematical sciences underlying engineering, and (2) a good understanding, both theoretical and practical, of the engineering sciences and techniques and their applications to one of the branches of engineering. The adequacy of such background must be demonstrated by one of the following:
+  
+1. Professional registration or licensure - Current registration as an Engineer Intern (EI), Engineer in Training (EIT), or licensure as a Professional Engineer (PE) by any State, the District of Columbia, Guam, or Puerto Rico. Absent other means of qualifying under this standard, those applicants who achieved such registration by means other than written test (e.g., State grandfather or eminence provisions) are eligible only for positions that are within or closely related to the specialty field of their registration. For example, an applicant who attains registration through a State Board's eminence provision as a manufacturing engineer typically would be rated eligible only for manufacturing engineering positions.
+  
+  
+2. Written Test - Evidence of having successfully passed the Fundamentals of Engineering (FE)2 examination or any other written test required for professional registration by an engineering licensure board in the various States, the District of Columbia, Guam, and Puerto Rico.
+  
+  
+3. Specified academic courses - Successful completion of at least 60 semester hours of courses in the physical, mathematical, and engineering sciences and that included the courses specified in the basic requirements under paragraph A. The courses must be fully acceptable toward meeting the requirements of an engineering program as described in paragraph A.
+  
+  
+4. Related curriculum - Successful completion of a curriculum leading to a bachelor's degree in an appropriate scientific field, e.g., engineering technology, physics, chemistry, architecture, computer science, mathematics, hydrology, or geology, may be accepted in lieu of a bachelor's degree in engineering, provided the applicant has had at least 1 year of professional engineering experience acquired under professional engineering supervision and guidance. Ordinarily there should be either an established plan of intensive training to develop professional engineering competence, or several years of prior professional engineering-type experience, e.g., in interdisciplinary positions. (The above examples of related curricula are not all-inclusive.) **NOTE: Failure to provide transcripts will result in you being rated ineligible for this position. All materials must be submitted by the closing date of the announcement.**
+
+### **Education**
+
+Substitution of education may not be used in lieu of specialized experience for this grade level.
+  
+  
+All materials must be submitted by the closing date of the announcement.
+  
+  
+FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show that the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: https://www2.ed.gov/about/offices/list/ous/international/usnei/us/edlite-visitus-forrecog.html
+
+### **Additional information**
+
+**Other Notes:**
+  
+  
+Salary Ranges are the following unless statutory/regulatory rates prevail.
+  
+  
+For the Schriever AFB, CO Location: $129,096 to $197,200 (includes 20.15% locality).
+  
+For the Redstone Arsenal, AL Location: $130,987 to $197,200 (includes 21.91% locality)
+  
+For the Colorado Springs, CO Location: $129,096 to $197,200 (includes 20.15% locality)  
+  
+  
+  
+  
+**CRITICAL ACQUISITION POSITION (CAP)**. Selectee for this position will be required to sign a written agreement to remain, for a minimum of three years, in the federal service in this critical acquisition position.
+
+* **DAWIA (Back to Basics) Certification: CAP:** Position is a DoD Critical Acquisition Position & requires DoD Acquisition Engineering and Technical Management, Practitioner certification. Certification prior to hiring is not essential but must be accomplished within 60 months after entry into this position. Selectee must also achieve 80 hours of Continuous Learning Points (CLPs) every 2-years and sign a written agreement to remain in Federal service in the position for at least three years. Click here for more details and Resources.
+
+  
+This is a Security Cooperation position coded Acquistion Management, Advanced Level. Selectee must obtain mandatory certification within 60 months of entry into position.
+  
+  
+**RE-EMPLOYED ANNUITANT:** This position **DOES NOT** meet criteria for re-employed annuitant. The DoD criteria for hiring Re-employed Annuitants can be found at: https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/140025/1400.25-V300.pdf.
+  
+  
+All applicants must meet qualifications and eligibility criteria by the closing date of the announcement.
+  
+  
+**Males born after 12-31-59 must be registered or exempt from Selective Service** (see Who Needs to Register | Selective Service System : Selective Service System (sss.gov))
+  
+  
+This position is subject to an initial drug screening, and random testing thereafter. A negative drug test result must be received by HR within 30 calendar days after the EOD (i.e., start date). The selectee's inability successfully pass; or refusal to conduct the test may result in: 1) the tentative or FJO being withdrawn during the recruitment process; or 2) subsequently being removed from Federal service for failure to meet a condition of employment.
+  
+You may be required to sign a ""Drug Test Statement of Understanding"" if you are selected for this position.
+
+Candidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.
+
+Benefits
+========
+
+A career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.
+
+Review our benefits
+
+Eligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.
+
+  
+
+**How you will be evaluated**
+-----------------------------
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+We will review your resume and supporting documents, to ensure you meet the basic qualification requirements. We will evaluate each applicant who meets the basic qualifications on the information provided and evaluate your relevant work experiences as it relates to fundamental competencies, identified below, required for this position. Your qualifications will be evaluated on the following competencies (knowledge, skills, abilities and other characteristics):
+  
+  
+Traditional rating and ranking of applications does not apply to this vacancy. Your application (resume and supporting documentation) will be evaluated to determine if you meet the minimum qualifications required as listed on the announcement under qualification requirements.
+  
+  
+**Veterans Preference**: If you are entitled to veterans preference, you should indicate the type of veterans' preference you are claiming on your resume. Your veterans' preference entitlement will be verified by the employing agency.
+  
+  
+For information on entitlement see http://www.fedshirevets.gov/job/vetpref/index.aspx
+  
+  
+**Appointment of Military Spouses (5 CFR 315.612) (NonComp Mil Sp):** To receive this preference, you must choose to apply using the "" Appointment of Military Spouses (5 CFR 315.612) (NonComp Mil Sp)"" eligibility. If you are claiming Military Spouse eligibility and are determined to be Well Qualified (score of 85 or above) for the position, you will be referred to the hiring manager. Information and required documentation for claiming Military Spouse eligibility may be found at the General Applicant Information and Definitions link below.
+  
+  
+**Appointment of Department of Defense Spouses (NonComp Civ Sp):** Are you the spouse of a current Department of Defense, Department of State, or intelligence community employee who is being transferred in the interest of the Government from one official station within the Department to another within the Department for permanent duty? **Supporting Documentation:** You are required to submit proof of marriage AND permanent change of station (PCS) orders: spouse's PCS orders (showing you as a dependent) and/or copy of marriage certificate. If you are a current or previous Federal employee, please include your most recent SF-50.
+
+  
+
+**Required Documents**
+----------------------
+
+The documents you are required to submit vary based on the authority you are using to apply (i.e., applying as a veteran, applying as a current permanent Federal employee, applying as a reinstatement, etc.). Your complete application includes your COMPLETE resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. **If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.**  
+  
+**The following documents are REQUIRED**
+  
+  
+**1. Your resume:**
+
+* All applicants are required to submit a resume **limited to two (2) pages** showing all relevant experience. **Your resume must address your qualifications for the position, and it may not exceed two (2) pages. Your 2-page (or less) resume must be in PDF format, with no smaller than a 0.5"" margin and no smaller than a 10-point font. If you submit a resume that exceeds the two-page limit and/or does not meet the margin or font limitations stated herein, you will immediately be deemed ineligible for this position and will be removed from further consideration.** Must include the work schedule, hours worked per week, dates of employment, and duties performed. The resume and required supporting documentation should provide the minimum qualifications and relevant experience for the announced position. If multiple resumes are submitted by an applicant, only the last resume submitted will be reviewed for qualifications and referred for selection consideration, if eligible. The resume must not be more than 5MB and should be saved and uploaded as a PDF to maintain formatting and number of pages. We also accept GIF, JPG, JPEG, PNG, RTF, TXT, PDF, ODT or Word (DOC or DOCX). We do not accept PDF portfolio files. We recommend using a font like Lato, if available. Other widely available options are Calibri, Helvetica, Arial, Verdana, Open San Source Sans Pro, Roboto or Noro Sans.
+* Additional guidance on writing a federal resume can be found at: USAJOBS Help Center - How do I write a resume for a federal job? The resume builder can help you create a resume using these recommendations and uses the information in your USAJOBS profile to help you get started.
+
+**2. Transcripts:**
+
+* This position has a degree or education requirement so you are required to submit a copy of your transcript. We accept unofficial transcripts, as long as they contain your name, the name of the school, the date and degree that was awarded, and the list of classes and credits earned.
+
+**3**. **SF50**
+
+* It is recommended that all current and former civilian Federal employees submit a copy of your MOST RECENT SF50 (Notification of Personnel Action) showing your tenure, grade and step, salary, and type of position occupied (i.e., Excepted or Competitive); or similar Notification of Personnel Action documentation, i.e., Transcript of Service, Form 1150, etc.
+
+  
+**PLEASE REVIEW THE BELOW LINK FOR OTHER SUPPORTING DOCUMENTS needed for proof of eligibility:**  
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DODCustomersRequiredSupportingDocumentation.pdf?
+
+### **If you are relying on your education to meet qualification requirements:**
+
+Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education.
+
+Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+  
+
+**How to Apply**
+----------------
+
+To apply for this position, you must complete the online application and submit the documentation specified in the Required Documents section below.
+  
+  
+The complete application package must be submitted by 11:59 PM (EST) on the closing date to receive consideration.
+
+* To begin, click Apply Online to access an online application. Follow the prompts to select your USAJOBS resume and/or other supporting documents. You will need to be logged into your USAJOBS account or you may need to create a new account.
+* You will be taken to an online application. Complete the online application, verify the required documentation, and submit the application. NOTE: Resumes up to a total of two pages will be accepted. **Resumes exceeding two pages will be removed from consideration.**
+* You will receive an email notification when your application has been received for the announcement.
+* To verify the status of your application, log into your USAJOBS account, *https://www.usajobs.gov*, select the Application Status link and then select the More Information link for this position. The Application Status page will display the status of your application, the documentation received and processed, and your responses submitted to the online application. Your uploaded documents may take several hours to clear the virus scan process.
+
+To preview the questionnaire, please go to https://apply.usastaffing.gov/ViewQuestionnaire/13102996
+  
+  
+Please review the General Application Information and Definitions at:
+  
+https://www.dla.mil/Portals/104/Documents/Careers/downloads/DoDGenAppInfo%2012-1-2020.pdf?ver=ECNbdsHtGilTd3OENN4A0Q%3d%3d
+  
+  
+As required by 5 C.F.R. § 302.106., DLA will provide Section 508 conformant ICT to employees with disabilities. All ICT interfaces with the public related to vacancy announcements and career transition opportunities must conform to the applicable requirements in the current ICT Standards and Guidelines (36 C.F.R. § 1194).
+
+### **Agency contact information**
+
+MDA Servicing Team
+
+Phone
+
+614-693-1299
+
+Fax
+
+6146931696
+
+Email
+
+DHRC-DMDAHR@DLA.MIL
+
+Address
+
+*Missile Defense Agency*  
+*Bldg 5222 Martin Rd*  
+*Redstone Arsenal, AL 35898*  
+*US*
+
+### **Next steps**
+
+A list of qualified applicants will be created and sent to the selecting official. All applicants reviewed and/or referred will receive a notification letter.
+  
+  
+The selecting official may choose to conduct interviews, and once the selection is made, you will receive a notification of the decision.
+  
+  
+REGARDING INTERVIEWS: Interviews may be required for this position. Accommodations may be made to conduct telephonic interviews to preclude travel hardships for applicants.
+  
+  
+NOTE: Declining to be interviewed or failure to report for a scheduled interview will be considered as a declination for further consideration for employment against this vacancy.
+  
+  
+This announcement may be used to fill additional vacancies.
+
+  
+
+**Overview**
+------------
+
+Accepting applications
+
+Location
+
+1 vacancy in the following locations:
+
+Redstone Arsenal, AL
+
+Schriever AFB, CO
+
+No matching locations found.
+
+Work site options
+
+Telework eligible
+
+Yes—as determined by the agency policy.
+
+Remote job
+
+No
+
+Relocation expenses reimbursed
+
+No
+
+Salary
+
+$130,987 - $197,200 per year
+
+See below for details
+
+Pay scale & grade
+
+NH 4
+
+Promotion potential
+
+None
+
+Learn more about pay scale and grade
+
+Pay scale and grade determines the salary of the job.
+
+Work schedule
+
+Full-time
+
+Travel Required
+
+25% or less - You may be expected to travel for this position.
+
+Appointment type
+
+Permanent
+
+Occupations and job series
+
+* 0801 General Engineering
+
+Supervisory status
+
+No
+
+Federal service type
+
+This job is in the Competitive Service
+
+Represented by a union
+
+No
+
+Drug test
+
+Yes
+
+Security clearance
+
+Top Secret
+
+Position sensitivity and risk
+
+Special-Sensitive (SS)/High Risk
+
+Jobs require a background check and some require a security clearance. The type depends on the job.
+
+Background check type
+
+* National security
+
+Financial disclosure required
+
+Yes
+
+Some jobs require financial disclosure to identify conflicts of interests.
+
+Announcement number
+
+MDA-27-13102996-DH
+
+Control number
+
+891538200",Government,https://www.indeed.com/cmp/United-States-Department-of-Defense,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/34253a5dcf19a2934493b0cfd6f748d0,https://www.defense.gov,"The Pentagon
+Arlington County, VA","10,000+",more than $10B (USD),The Department of Defense is a department of the United States government charged with maintaining national security and the armed forces.,,,4.2,6292.0,,,Huntsville,AL,Network Engineer
+in-f8db681169f2e428,indeed,https://www.indeed.com/viewjob?jk=f8db681169f2e428,https://jobs.parsons.com/jobs/senior-cyber-security-engineer-isso-huntsville-r-188173-jobs--engineering--,Senior Cyber Security Engineer / ISSO,Parsons,"Huntsville, AL, USA",2026-11-04,,direct_data,yearly,134100.0,241400.0,USD,False,,,,,"In a world of possibilities, pursue one with endless opportunities. Imagine Next!At Parsons, you can imagine a career where you thrive, work with exceptional people, and be yourself. Guided by our leadership vision of valuing people, embracing agility, and fostering growth, we cultivate an innovative culture that empowers you to achieve your full potential. Unleash your talent and redefine what’s possible.
+
+**Job Description:**
+
+Parsons is looking for an amazingly talented, motivated, and customer-oriented **Senior Cyber Security Engineer / Information Systems Security Officer (ISSO)** to join our team! In this role you will be part of Parsons’ Federal Solutions team providing Systems Engineering Technical Assistance to the Ground-based Midcourse Dense (GMD) Product Office under the Teams-Next Missile Defense Systems Engineering (TN-MDSE) contract managed by the Missile Defense Agency.
+
+  
+  
+
+**What You'll Be Doing:**
+
+* Serve as a member of the cybersecurity team, developing system Security Plans (SSPs), Interim Authority to Test (IATT), Authority to Connect (ATC) and, Authority to Operate (ATO) packages.
+* Perform analysis to validate established security requirements and recommends additional security requirements and safeguards where required.
+* Periodically conduct reviews of each system’s audits and monitors corrective actions until all actions are closed.
+* Ensure that system security artifacts are developed, reviewed, and updated as needed.
+* Confirm that all RMF requirements are properly addressed and required artifacts are loaded and managed within Enterprise Mission Assurance Support Service (eMASS).
+* Interface with other cyber teams to review RMF Contract Data Requirements Lists (CDRLs) and ensure timely delivery of CDRL artifacts, while providing feedback to ensure the sufficiency and quality of cyber artifacts.
+* Perform vulnerability/risk analyses of systems using expertise in relevant information systems security.
+* Track and monitor Plan of Action and Milestones (POA&Ms).
+* Conduct reviews of cybersecurity artifacts and technical briefings and work with customer to resolve any findings.
+* Ensure that identified security controls are implemented and operating as intended through all phases of the lifecycle.
+* Track deliverables (i.e., artifacts, schedules, and metrics).
+* Contribute to and may lead the planning and implementation of large programs in the function and regularly interfaces with senior management and executive leadership.
+* Lead, mentor, and provide guidance and instructional aide to Associate and Junior ISSOs.
+* Assist in overall functional strategic planning.
+  
+
+  
+
+**What Required Skills You'll Bring:**
+
+* Active Secret clearance
+* Bachelor's Degree in Engineering or an equivalent technical/scientific discipline specifically related to area of specialty and 10+ years of related professional experience
+  + Advanced degree may be preferred at this level
+* Demonstrated abilities to analyze complex problems, identify root causes, and develop actionable recommendations with effective solutions.
+* Knowledge to perform technical work utilizing the Risk Management Framework (RMF) process including analyzing and solving Information Assurance (IA)-related technical problems.
+* Ability to establish strict program control processes to ensure mitigation of risks and supports for obtaining certification and accreditation of systems. This includes process support, analysis support, coordination support, security certification test support, security documentation support, investigations, software research, hardware introduction and release, emerging technology research inspections, and periodic audits.
+  
+
+**What Desired Skills You'll Bring:**
+
+* Master's Degree in STEM and 12+ years working on missile defense-related or other complex, large DoD program / project
+* MDA experience and knowledge of MDA processes
+
+**Security Clearance Requirement:**
+
+An active Secret security clearance is required for this position.This position is part of our Federal Solutions team.The Federal Solutions segment delivers resources to our US government customers that ensure the success of missions around the globe. Our intelligent employees drive the state of the art as they provide services and solutions in the areas of defense, security, intelligence, infrastructure, and environmental. We promote a culture of excellence and close-knit teams that take pride in delivering, protecting, and sustaining our nation's most critical assets, from Earth to cyberspace. Throughout the company, our people are anticipating what’s next to deliver the solutions our customers need now.Salary Range: $134,100.00 - $241,400.00We value our employees and want our employees to take care of their overall wellbeing, which is why we offer best-in-class benefits such as medical, dental, vision, paid time off, Employee Stock Ownership Plan (ESOP), 401(k), life insurance, flexible work schedules, and holidays to fit your busy lifestyle!Parsons is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, veteran status or any other protected status.We truly invest and care about our employee’s wellbeing and provide endless growth opportunities as the sky is the limit, so aim for the stars! Imagine next and join the Parsons quest—APPLY TODAY!
+
+Parsons is aware of fraudulent recruitment practices. To learn more about recruitment fraud and how to report it, please refer to https://www.parsons.com/fraudulent-recruitment/.
+
+  
+
+**COMPETITIVE BENEFIT OFFERINGS**
+=================================
+
+Financial Wellness
+
+We care about your financial wellbeing. Parsons offers competitive pay and retirement plans to help you build wealth for the future while giving you the flexibility to diversify your investments.
+
+Work Life Harmony
+
+Balance in life is important and time away from the office is imperative to allow you to refresh and focus your attention on the things that matter to you. Parsons supports your time away by providing paid time off and paid flexible holidays.
+
+Career Development
+
+We are committed to fostering the personal and professional growth of our employees. Develop and advance yourself though our comprehensive training, educational and mentorship programs.
+
+Veteran Support
+
+We provide Industry leading benefits to support veterans and active-duty members to provide security for you and your family by offering robust leave and benefits; including paid active-duty military leave and paid time off when transitioning back to civilian life.
+
+Mind & Body
+
+At Parsons we inspire healthier habits, heathier minds, and a healthier you through our wellness program. Participate in our weekly Meditation Mondays and Wellness Wednesdays. Wellness, at Parsons, is more than just your annual checkup.
+
+Health
+
+Health is not a one size fits all. At Parsons, we offer a robust Employee Assistance Program as well as comprehensive medical, dental and vision plans through large, national carriers with the choice of regional PPO, HDHP, or HMO networks.
+
+Want to learn more about the benefits eligible for the Parsons’ location you are interested in?",Construction,https://www.indeed.com/cmp/Parsons,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/47c3cc6c78c3133dd4efdb20f44cec7f,https://www.parsons.com,"14291 Park Meadow Drive, Suite 100
+Chantilly, VA 20151","10,000+",$1B to $5B (USD),"We welcome self starters who solve problems & believe in integrity, safety, quality, innovation, sustainability, & diversity as core values!",,,3.9,1182.0,,,Huntsville,AL,Network Engineer
+li-4487241723,linkedin,https://www.linkedin.com/jobs/view/4487241723,,Spectrum & Test Engineer,SAIC,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/saicinc,,,,,,,,,,,,,Huntsville,AL,Network Engineer
+li-4486384520,linkedin,https://www.linkedin.com/jobs/view/4486384520,,Signals Analyst with Security Clearance,RealmOne,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/realm-one,,,,,,,,,,,,,Huntsville,AL,Network Engineer
+gd-1010316175105,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316175105,,Program Analyst,US Missile Defense Agency,"Redstone Arsenal, USA",2026-11-04,fulltime,direct_data,yearly,129096.0,197200.0,USD,False,,,organic,,,Aerospace & Defense,https://www.glassdoor.com/Overview/W-EI_IE14798.htm,https://media.glassdoor.com/sql/14798/us-department-of-defense-squarelogo.png,https://www.defense.gov,"Washington, DC",10000+ Employees,$10+ billion (USD),"No matter how you measure it, by aircraft, ships, or active-duty military personnel, the US Department of Defense (DoD) is big. Except for Social Security, the Department of Defense -- comprising the Army, Navy, Air Force, Marines, National Guard, Reserves, and more than a dozen defense agencies -- is the largest component of US government spending. The 2012 budget for the Department of Defense is more than $670 billion, 18% of which will be used to fund the ongoing military engagements in Afghanistan and Iraq. The DoD maintains a force of about 1.4 million active duty service members and operates thousands of facilities around the world.",,,3.9,,,,Huntsville,AL,Network Analyst
+li-4447107010,linkedin,https://www.linkedin.com/jobs/view/4447107010,,Traffic Modeling System Engineer for Missile Tracking (Space Force) (Sign-On Bonus Available),General Dynamics Mission Systems,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/gdms,,,,,,,,,,,,,Huntsville,AL,Network Analyst
+li-4486392333,linkedin,https://www.linkedin.com/jobs/view/4486392333,,Target Analyst Reporter with Security Clearance,RealmOne,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/realm-one,,,,,,,,,,,,,Huntsville,AL,Network Analyst
+li-4478148608,linkedin,https://www.linkedin.com/jobs/view/4478148608,,INTEL MID – Supply Chain Intel Gathering Specialist,Cherokee Federal,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/cherokee-federal,,,,,,,,,,,,,Huntsville,AL,Network Analyst
+gd-1010315842352,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315842352,,IT Help Desk Assistant,Drake State Community & Technical College,"Huntsville, AL, USA",2026-11-04,fulltime,direct_data,yearly,28836.0,46327.0,USD,False,,,organic,,,Colleges & Universities,https://www.glassdoor.com/Overview/W-EI_IE128260.htm,https://media.glassdoor.com/sql/128260/j-f-drake-state-technical-college-squarelogo-1644910166518.png,https://www.dstc.cc.al.us,"Huntsville, AL",Unknown,Unknown / Non-Applicable,,,,3.5,,,,Huntsville,AL,IT
+gd-1010316670162,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316670162,,Geospatial Support Specialist – LP360 Software,LP360,"Huntsville, AL, USA",2026-11-04,,direct_data,yearly,53676.0,77067.0,USD,False,,,organic,,,Software Development,https://www.glassdoor.com/Overview/W-EI_IE8523402.htm,https://media.glassdoor.com/sql/8523402/lp360-squarelogo-1681385214801.png,https://www.lp360.com/,"Huntsville, AL",Unknown,Unknown / Non-Applicable,,,,5.0,,,,Huntsville,AL,IT
+gd-1010315987490,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315987490,,Infrastructure Technician,Summit 7 Systems,"Huntsville, AL, USA",2026-11-04,fulltime,direct_data,yearly,40000.0,55000.0,USD,False,,,organic,,,Enterprise Software & Network Solutions,https://www.glassdoor.com/Overview/W-EI_IE1193923.htm,https://media.glassdoor.com/sql/1193923/summit-7-systems-squarelogo-1629436146086.png,https://www.summit7.us/,"Huntsville, AL",201 to 500 Employees,Unknown / Non-Applicable,,,,4.0,,,,Huntsville,AL,IT
+in-1e8c2cab486fa2d8,indeed,https://www.indeed.com/viewjob?jk=1e8c2cab486fa2d8,,Low Voltage IT Technician,CommSec,"Huntsville, AL, USA",2026-11-04,fulltime,direct_data,hourly,18.5,35.0,USD,False,,,,,"**Job description**
+
+**Company Description**
+
+Heart is a business technology solutions provider located in Huntsville, AL. Our company has been providing reliable telephone systems, structured cabling, intrusion alarm systems, camera systems, access control systems, and paging/notification systems to a diverse range of customers since 1983.
+
+**Role Description**
+
+This is a full-time on-site role for an IT / Security Technician at Heart located in Huntsville, AL. The Technician will be responsible for installing, provisioning and maintaining alarm systems, camera systems, structured cabling, access control systems, basic networking, and other assigned duties.
+
+**Qualifications**
+
+* Troubleshooting skills
+* Experience with IP camera systems
+* Basic understanding of IP networks
+* Experience with access control systems
+* Structured cabling experience
+* Experience with alarm systems
+* Excellent problem-solving skills and attention to detail
+* Ability to work independently and in a team environment
+* Strong communication and interpersonal skills
+
+**Industry**
+
+* Telecommunications
+
+**Employment Type**
+
+Full-time
+
+Job Type: Full-time
+
+Pay: $18.50 - $35.00 per hour
+
+Benefits:
+
+* 401(k)
+* 401(k) matching
+* Dental insurance
+* Health insurance
+* Life insurance
+* Paid time off
+* Professional development assistance
+* Vision insurance
+
+Ability to Relocate:
+
+* Huntsville, AL 35801: Relocate before starting work (Required)
+
+Work Location: In person",,https://www.indeed.com/cmp/Commsec-7,,,,,,,,,,,,,Huntsville,AL,IT
+in-4164a26afb24630b,indeed,https://www.indeed.com/viewjob?jk=4164a26afb24630b,https://careers.leidos.com/jobs/18445868-system-support-specialist?tm_job=R-00195946&tm_event=view&tm_company=2502,System Support Specialist,Leidos,"Huntsville, AL, USA",2026-11-04,fulltime,direct_data,hourly,30.0,35.52,USD,False,,,,LeidosCareersFraud@leidos.com,"**Description**
+
+The Digital Sector at Leidos currently has an opening for an **Entry-Level System Support Specialist** to work in our Huntsville, AL office. This is an exciting opportunity to apply your technical skills and experience while supporting the NASA End-user Services and Technologies (NEST) Contract mission, providing end-user computing device services at Marshall Space Flight Center (MSFC).
+
+**PRIMARY RESPONSIBILITIES:**
+-----------------------------
+
+* Assist with the setup and delivery of end-user services, including mobile devices, printers, and computer equipment, following established procedures and guidance from senior technicians.
+* Provide basic technical support for end-user hardware, software, and device-related issues, troubleshooting common problems and escalating issues requiring additional technical expertise.
+* Interact with NASA customers and contractors to provide basic information and assistance with NEST services, ensuring a positive customer service experience.
+* Perform initial identification and basic troubleshooting of system issues using established procedures, escalating unresolved problems and incidents to senior-level technicians.
+* Assist with documenting, tracking, and escalating third-party software and network-related issues to the appropriate technical support teams.
+* Support the fulfillment of end-user hardware and software requests, ensuring accurate documentation and adherence to established service processes.
+
+**BASIC QUALIFICATIONS:**
+-------------------------
+
+* High School Diploma or equivalent.
+* 4 years of Information Technology (IT) support experience.
+* Strong written and verbal communication skills, with the ability to interact professionally with customers and team members.
+* Experience providing technical support for current versions of the Windows operating system.
+* Experience providing technical support for current versions of macOS.
+
+**PREFERRED QUALIFICATIONS:**
+-----------------------------
+
+* Knowledge of and experience with the NASA desktop computing environment and software suite.
+* Experience using ServiceNow to manage incidents and service requests.
+
+**CLEARANCE REQUIREMENTS:**
+---------------------------
+
+* U.S. Citizenship is required.
+* Ability to obtain and maintain a Public Trust.
+
+**The salary for this position is approximately $30.00 - $35.52 an hour. The actual hourly rate is based on location.**
+
+If you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.
+
+**Original Posting:**
+---------------------
+
+November 3, 2026
+
+For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.
+
+**Pay Range:**
+--------------
+
+Pay Range -
+
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+
+**About Leidos**
+
+Leidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended January 3, 2025. For more information, visit www.Leidos.com.
+
+**Pay and Benefits**
+
+Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at www.leidos.com/careers/pay-benefits.
+
+**Securing Your Data**
+
+Beware of fake employment opportunities using Leidos’ name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system – never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at LeidosCareersFraud@leidos.com.
+
+If you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission.
+
+**Commitment to Non-Discrimination**
+
+All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",,https://www.indeed.com/cmp/Leidos,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cf03fb8a4a8c43a754ac90fa3d5f9a35,http://www.leidos.com,"Reston, VA","10,000+",more than $10B (USD),Leidos is a Fortune 500® innovation company rapidly addressing the world’s most vexing challenges in national security and health. ,,,3.7,1963.0,,,Huntsville,AL,IT
+in-66f550394b713931,indeed,https://www.indeed.com/viewjob?jk=66f550394b713931,https://www.lp360.com/contact/careers/technical-customer-support,Geospatial Support Specialist – LP360 Software,LP360,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,"**Position Summary**
+
+GeoCue Group Inc. (""GeoCue"") is a market-leading US technology company designing, manufacturing, distributing LiDAR hardware and software products for the Surveying/Mapping industry, including TrueView LiDAR payloads and LP360 point cloud processing software. GeoCue Group is headquartered near Huntsville, in Madison, AL.
+
+Location: Huntsville, AL (On-site)
+
+Department: Customer Success
+
+**About the Role**
+------------------
+
+We’re looking for a Geospatial Support Specialist to join our LP360 Customer Success team. This role is ideal for someone with a background in GIS, LiDAR, or GNSS who enjoys solving technical problems and helping customers succeed with complex mapping workflows.
+  
+  
+You’ll be the first line of support for our LP360 software users—responding to support tickets, diagnosing issues with LiDAR and imagery processing, and guiding customers through best practices in geospatial data handling.
+
+**What You’ll Do**
+------------------
+
+* Respond to and resolve support tickets related to LP360 software and geospatial workflows.
+* Troubleshoot issues involving LiDAR classification, GNSS trajectory alignment, point cloud visualization, and orthophoto generation.
+* Assist customers with data import/export, coordinate system setup, and workflow optimization.
+* Document solutions and contribute to our knowledge base and training materials.
+* Collaborate with product and engineering teams to escalate bugs or feature requests.
+* Provide occasional remote or on-site training for customers.
+
+**What You Bring**
+------------------
+
+* Experience with geospatial software such as LP360, ArcGIS, QGIS, Global Mapper, or similar.
+* Familiarity with GNSS post-processing, trajectory QC, or surveying principles.
+* Strong problem-solving and communication skills.
+* Ability to explain technical concepts to non-technical users.
+* Bonus: Experience with drone mapping, photogrammetry, or LiDAR sensors.
+
+**Preferred Qualifications**
+----------------------------
+
+* Degree or certification in GIS, Geomatics, Surveying, Remote Sensing, or a related field.
+* 1–3 years of experience in a technical support, field technician, or geospatial analyst role.
+* Comfortable using ticketing systems (e.g., Freshdesk, Zendesk) and remote support tools.
+
+**Why Join Us?**
+----------------
+
+* Work with a passionate team building cutting-edge geospatial tools.
+* Help shape the future of LiDAR and drone mapping workflows.
+* Grow your career in a company that values customer success and technical excellence.",,,,,,,,,,,,,,,Huntsville,AL,IT
+li-4449280270,linkedin,https://www.linkedin.com/jobs/view/4449280270,,Solution Architect - Senior Manager - Consulting - Location OPEN,EY,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://uk.linkedin.com/company/ernstandyoung,,,,,,,,,,,,,Huntsville,AL,IT
+li-4470624696,linkedin,https://www.linkedin.com/jobs/view/4470624696,,Governance Business Analyst,Guidehouse,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/guidehouse,,,,,,,,,,,,,Huntsville,AL,IT
+li-4461508653,linkedin,https://www.linkedin.com/jobs/view/4461508653,,Information Technology Auditor - Senior Consultant,Deloitte,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/deloitte,,,,,,,,,,,,,Huntsville,AL,IT
+li-4487262461,linkedin,https://www.linkedin.com/jobs/view/4487262461,,Audit and Assurance - Information Technology Auditor - Manager,Deloitte,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/deloitte,,,,,,,,,,,,,Huntsville,AL,IT
+li-4461545159,linkedin,https://www.linkedin.com/jobs/view/4461545159,,Enterprise Resource Planning Specialist III,Goldbelt Apex LLC,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/goldbelt-apex-llc,,,,,,,,,,,,,Huntsville,AL,IT
+li-4486381498,linkedin,https://www.linkedin.com/jobs/view/4486381498,,Software Engineer with Security Clearance,"OASYS, INC.","Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/oasys-inc-,,,,,,,,,,,,,Huntsville,AL,Security Engineer
+li-4461284199,linkedin,https://www.linkedin.com/jobs/view/4461284199,,Security Assistant,Amentum,"Huntsville, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/amentumcorp,,,,,,,,,,,,,Huntsville,AL,SOC
+gd-1010316148270,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316148270,,Information Systems System Administrator,Singing River Health System,"Ocean Springs, MS, USA",2026-11-04,fulltime,direct_data,yearly,58236.0,80061.0,USD,False,,,organic,,,Health Care Services & Hospitals,https://www.glassdoor.com/Overview/W-EI_IE672078.htm,https://media.glassdoor.com/sql/672078/singing-river-health-system-squareLogo-1727713704368.png,https://www.singingriverhealthsystem.com,"Gautier, MS",1001 to 5000 Employees,$100 to $500 million (USD),,,,3.6,,,,Mobile,AL,Systems Administrator
+li-4468984149,linkedin,https://www.linkedin.com/jobs/view/4468984149,,"Technician, Facility Services, Low Voltage-Licensed - $5,000 Sign-On Bonus",Walmart,"Saraland, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/walmart,,,,,,,,,,,,,Mobile,AL,Systems Administrator
+gd-1010316123780,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316123780,,IP Engineer,Uniti,"Mobile, AL, USA",2026-11-04,fulltime,direct_data,yearly,82936.0,127551.0,USD,False,,,organic,,,"Cable, Internet & Telephone Providers",https://www.glassdoor.com/Overview/W-EI_IE1404078.htm,https://media.glassdoor.com/sql/1404078/uniti-ar-squareLogo-1761229525804.png,https://www.uniti.com,"Little Rock, AR",5001 to 10000 Employees,$1 to $5 billion (USD),"Uniti is a premier insurgent fiber provider dedicated to enabling mission-critical connectivity across the United States.
+
+With a steadfast commitment to customer service, operational excellence, and superior network capabilities, Uniti builds, operates and delivers critical fiber-based communications services to connect and empower people and businesses.",,,3.0,,,,Mobile,AL,Network Engineer
+gd-1010316148280,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316148280,,Training Coordinator | Information Systems,Singing River Health System,"Pascagoula, MS, USA",2026-11-04,fulltime,direct_data,yearly,60974.0,101778.0,USD,False,,,organic,,,Health Care Services & Hospitals,https://www.glassdoor.com/Overview/W-EI_IE672078.htm,https://media.glassdoor.com/sql/672078/singing-river-health-system-squareLogo-1727713704368.png,https://www.singingriverhealthsystem.com,"Gautier, MS",1001 to 5000 Employees,$100 to $500 million (USD),,,,3.6,,,,Mobile,AL,IT
+li-4476841086,linkedin,https://www.linkedin.com/jobs/view/4476841086,,Instructional Designer  - Hybrid - Locals Only,"Zillion Technologies, Inc.","Pensacola, FL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/zillion-technologies,,,,,,,,,,,,,Mobile,AL,IT
+li-4478400275,linkedin,https://www.linkedin.com/jobs/view/4478400275,,"Test Center Administrator - Mobile, AL",Pearson,"Mobile, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://uk.linkedin.com/company/pearson,,,,,,,,,,,,,Mobile,AL,IT
+li-4486396127,linkedin,https://www.linkedin.com/jobs/view/4486396127,,Instructional Designer  - Hybrid - Locals Only,"Zillion Technologies, Inc.","Pensacola, FL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/zillion-technologies,,,,,,,,,,,,,Mobile,AL,IT
+li-4486357984,linkedin,https://www.linkedin.com/jobs/view/4486357984,,Security Operations Specialist - Jackson County (Generation),AbilityLinks,"Moss Point, MS, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/abilitylinksorg,,,,,,,,,,,,,Mobile,AL,SOC
+li-4486375429,linkedin,https://www.linkedin.com/jobs/view/4486375429,,Security Operations Specialist - Jackson County (Generation),AbilityLinks,"Pascagoula, MS, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/abilitylinksorg,,,,,,,,,,,,,Mobile,AL,SOC
+gd-1010316144420,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316144420,,Student Security System Administrator,Tuskegee University,"Tuskegee, AL, USA",2026-11-04,fulltime,direct_data,yearly,62757.0,92752.0,USD,False,,,organic,,,Colleges & Universities,https://www.glassdoor.com/Overview/W-EI_IE128203.htm,https://media.glassdoor.com/sql/128203/tuskegee-university-squarelogo.png,https://www.tuskegee.edu,"Tuskegee Institute, AL",1001 to 5000 Employees,$100 to $500 million (USD),,,,3.9,,,,Montgomery,AL,Systems Administrator
+li-4415142226,linkedin,https://www.linkedin.com/jobs/view/4415142226,,20146 – Window System Administrator III,Hyundai AutoEver America,"Montgomery, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/hyundai-autoever-america,,,,,,,,,,,,,Montgomery,AL,Systems Administrator
+li-4487259147,linkedin,https://www.linkedin.com/jobs/view/4487259147,,"NetSuite Administrator, Financial Systems",WP Engine,"Alabama, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/wpengine,,,,,,,,,,,,,Montgomery,AL,Systems Administrator
+li-4485097464,linkedin,https://www.linkedin.com/jobs/view/4485097464,,IT Field Service Technician,Hemmersbach,"Montgomery County, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://de.linkedin.com/company/hemmersbach,,,,,,,,,,,,,Montgomery,AL,Systems Administrator
+li-4461285763,linkedin,https://www.linkedin.com/jobs/view/4461285763,,Solutions Architect (Pre-Sales & Delivery) - Remote - USA,FullStack,"Montgomery, AL, USA",2026-11-04,,,,,,,True,,,,,,,https://www.linkedin.com/company/fullstack-labs,,,,,,,,,,,,,Montgomery,AL,IT
+li-4486369434,linkedin,https://www.linkedin.com/jobs/view/4486369434,,"Lead Specialist, AI Scientist",Pearson,"Montgomery, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://uk.linkedin.com/company/pearson,,,,,,,,,,,,,Montgomery,AL,IT
+li-4478184880,linkedin,https://www.linkedin.com/jobs/view/4478184880,,"Lead Specialist, Technical Architect",Pearson,"Montgomery, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://uk.linkedin.com/company/pearson,,,,,,,,,,,,,Montgomery,AL,IT
+li-4414789914,linkedin,https://www.linkedin.com/jobs/view/4414789914,,Strategic Account Manager,AVEVA,"Alabama, USA",2026-11-04,,,,,,,False,,,,,,,https://uk.linkedin.com/company/aveva,,,,,,,,,,,,,Montgomery,AL,IT
+li-4479079484,linkedin,https://www.linkedin.com/jobs/view/4479079484,,Project Coordinator,OWL Services,"Montgomery, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/owl-services-northamerica,,,,,,,,,,,,,Montgomery,AL,IT
+li-4476486206,linkedin,https://www.linkedin.com/jobs/view/4476486206,,"Senior Director, Product Finance",Circle,"Montgomery, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/circle-internet-financial,,,,,,,,,,,,,Montgomery,AL,IT
+li-4470203808,linkedin,https://www.linkedin.com/jobs/view/4470203808,,Clinical Account Manager (Alabama),Cleerly,"Alabama, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/cleerlyhealth,,,,,,,,,,,,,Montgomery,AL,IT
+li-4461277561,linkedin,https://www.linkedin.com/jobs/view/4461277561,,Project Coordinator,IES Communications,"Montgomery, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/iescomm,,,,,,,,,,,,,Montgomery,AL,IT
+li-4486375073,linkedin,https://www.linkedin.com/jobs/view/4486375073,,"Lead Specialist, AI Scientist",Pearson,"Montgomery, AL, USA",2026-11-04,,,,,,,False,,,,,,,https://uk.linkedin.com/company/pearson,,,,,,,,,,,,,Montgomery,AL,IT

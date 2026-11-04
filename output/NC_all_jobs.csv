@@ -1,0 +1,635 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_city,search_state,search_term
+gd-1010316079811,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316079811,,Systems Engineer I/II - Network,Novo Nordisk,"Clayton, NC, USA",2026-11-04,,direct_data,yearly,84139.0,138014.0,USD,False,,,organic,,,Biotech & Pharmaceuticals,https://www.glassdoor.com/Overview/W-EI_IE3498.htm,https://media.glassdoor.com/sql/3498/novo-squareLogo-1792082009571.png,https://www.novonordisk.com,"Bagsværd, Denmark",10000+ Employees,$10+ billion (USD),"Novo is a leading global healthcare company, founded in 1923 and headquartered in Denmark. 
+
+Our purpose is to drive change to defeat diabetes and other serious chronic diseases such as obesity and rare blood and endocrine disorders. We do so by pioneering scientific breakthroughs, expanding access to our medicines, and working to prevent and ultimately cure disease. 
+
+Novo Nordisk employs about 54,400 people in 80 countries and markets its products in around 170 countries. 
+
+Globally, we are serving a record of almost 40 million patients. However, there are still many people who struggle to access our life-changing products, even though more than 5 million are reached through our access and affordability initiatives.
+
+Novo Nordisk's B shares are listed on Nasdaq Copenhagen (Novo-B). Its ADRs are listed on the New York Stock Exchange (NVO)",,,3.8,,,,Cary,NC,Systems Administrator
+gd-1010316034936,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316034936,,IT Administrator,Digital Turbine,"Durham, NC, USA",2026-11-04,fulltime,,,,,,False,,,organic,,,Software Development,https://www.glassdoor.com/Overview/W-EI_IE747615.htm,https://media.glassdoor.com/sql/747615/digital-turbine-squareLogo-1788685819762.png,https://www.digitalturbine.com,"Austin, TX",501 to 1000 Employees,$1 to $5 billion (USD),"Digital Turbine is the leading independent mobile growth platform and levels up the landscape for advertisers, publishers, carriers and OEMs.  By integrating a full ad stack with proprietary technology built into devices by wireless operators and OEMs, Digital Turbine supercharges advertising and monetization.
+
+The company is headquartered in Austin, Texas, with global offices in New York, Los Angeles, San Francisco, London, Berlin, Singapore, Tel Aviv and other cities serving top agency, app developer and advertising markets.",,,3.3,,,,Cary,NC,Systems Administrator
+li-4470618802,linkedin,https://www.linkedin.com/jobs/view/4470618802,,IT Infrastructure and Cybersecurity Administrator,Kymera International,"Durham, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/kymera-international,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4467637378,linkedin,https://www.linkedin.com/jobs/view/4467637378,,Prod Support,Tata Consultancy Services,"Cary, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://in.linkedin.com/company/tata-consultancy-services,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4486365756,linkedin,https://www.linkedin.com/jobs/view/4486365756,,Workload Operations Technician and Customer Relations Manager,SAIC,"Fort Liberty, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/saicinc,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4442474417,linkedin,https://www.linkedin.com/jobs/view/4442474417,,Network Engineer Senior – TS/SCI Required,General Dynamics Information Technology,"Fort Liberty, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/gdit,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4479046232,linkedin,https://www.linkedin.com/jobs/view/4479046232,,DevSecOps Engineer,"Iron EagleX, Inc.","Fort Liberty, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/ironeaglex,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4469531016,linkedin,https://www.linkedin.com/jobs/view/4469531016,,Information Security Analyst,General Dynamics Information Technology,"Fort Liberty, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/gdit,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4486381715,linkedin,https://www.linkedin.com/jobs/view/4486381715,,Application Analyst,City of Raleigh,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/city-of-raleigh,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4460040650,linkedin,https://www.linkedin.com/jobs/view/4460040650,,Salesforce Architect,Worldwide Clinical Trials,"Durham, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/worldwide-clinical-trials-inc-,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4486353822,linkedin,https://www.linkedin.com/jobs/view/4486353822,,"Senior Software Engineer, Site Reliability Engineering",Google,"Durham, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/google,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4462102255,linkedin,https://www.linkedin.com/jobs/view/4462102255,,"PAM(CyberArk, Beyond Trust and/or Delinea) Senior Consultant",Deloitte,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/deloitte,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4486371457,linkedin,https://www.linkedin.com/jobs/view/4486371457,,"Senior Software Engineer, Site Reliability Engineering",Google,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/google,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4476608120,linkedin,https://www.linkedin.com/jobs/view/4476608120,,Networking Remote Field Service Engineer (L2),"NTT DATA, Inc.","North Carolina, USA",2026-11-04,,,,,,,True,,,,,,,https://jp.linkedin.com/company/ntt-data-inc,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4479017715,linkedin,https://www.linkedin.com/jobs/view/4479017715,,Systems Engineer: 26-03050,"Akraya, Inc.","Triangle, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/akraya-inc,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4479032133,linkedin,https://www.linkedin.com/jobs/view/4479032133,,Systems Engineer: 26-03050,"Akraya, Inc.","North Carolina, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/akraya-inc,,,,,,,,,,,,,Cary,NC,Systems Administrator
+li-4486389283,linkedin,https://www.linkedin.com/jobs/view/4486389283,,IT Support Specialist,Craftbridge Digital,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/craftbridge-digital,,,,,,,,,,,,,Cary,NC,Systems Administrator
+gd-1010315918937,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315918937,,Principal Network Engineer,Fidelity Investments,"Durham, NC, USA",2026-11-04,fulltime,direct_data,yearly,125855.0,167609.0,USD,False,,,organic,,,Investment & Asset Management,https://www.glassdoor.com/Overview/W-EI_IE2786.htm,https://media.glassdoor.com/sql/2786/fidelity-investments-squareLogo-1743533240994.png,https://www.fidelitycareers.com,"Boston, MA",10000+ Employees,$10+ billion (USD),"Privately held since 1946, Fidelity Investment’s mission has always focused on building better financial futures for our customers—and our associates. Whether we’re helping individuals to grow their wealth, assisting companies and non-profits to deliver benefits to their employees or providing institutions and independent advisors with cutting edge technology solutions, we’re committed to helping people achieve the unique futures they envision.",,,4.1,,,,Cary,NC,Network Engineer
+gd-1010316060640,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316060640,,Application Security Engineer,Truist Bank,"Raleigh, NC, USA",2026-11-04,fulltime,,,,,,False,,,organic,,,,https://www.glassdoor.com/Overview/W-EI_IE3145458.htm,https://media.glassdoor.com/sql/3145458/truist-squarelogo-1580858847567.png,https://www.truist.com,"Charlotte, NC",10000+ Employees,$10+ billion (USD),"Truist is a top 10 US commercial bank, driven by a shared purpose to inspire and build better lives and communities. We strive every day to make things better for our clients, teammates, and communities—boldly believing in the power of what we can achieve together.
+
+At Truist, people come first, and every interaction with each other and our clients starts with care. We act as one team, united by our purpose, mission, and values. They’re the foundation of our culture, the starting point for every decision we make, and the single, most important factor in our long-term success.
+
+Working together to take care of people is more than the words we say—it’s who we are. 
+
+Learn more about our culture and company at https://www.truist.com/who-we-are/about-truist. ",,,3.3,,,,Cary,NC,Network Engineer
+gd-1010315857839,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315857839,,Network Engineer,GN Resources Inc.,"Raleigh, NC, USA",2026-11-04,contract,direct_data,yearly,60000.0,60000.0,USD,False,,,organic,,,,,,,,,,,,,,,,,Cary,NC,Network Engineer
+gd-1010315950321,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315950321,,Network Model Import Engineer,SN Cloud Solutions,USA,2026-11-04,contract,direct_data,hourly,50.0,55.0,USD,True,,,sponsored,,,,https://www.glassdoor.com/Overview/W-EI_IE9305752.htm,,https://sncloudsolutions.com,"Frisco, TX",51 to 200 Employees,Unknown / Non-Applicable,,,,5.0,,,,Cary,NC,Network Engineer
+li-4486500131,linkedin,https://www.linkedin.com/jobs/view/4486500131,,NCDIT - Network/Telecom Specialist- Junior,"V-Soft Consulting Group, Inc.","Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/vsoftconsulting,,,,,,,,,,,,,Cary,NC,Network Engineer
+li-4482859906,linkedin,https://www.linkedin.com/jobs/view/4482859906,,Customer Solutions Engineering Lead,EDMI,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://sg.linkedin.com/company/edmiglobal,,,,,,,,,,,,,Cary,NC,Network Engineer
+li-4486377877,linkedin,https://www.linkedin.com/jobs/view/4486377877,,Information Technology Help Desk Technician,OculusIT,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/oculusit,,,,,,,,,,,,,Cary,NC,Network Engineer
+li-4470416768,linkedin,https://www.linkedin.com/jobs/view/4470416768,,"Sr. Solutions Architect , Agriculture and Consulting Services",Amazon Web Services (AWS),"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/amazon-web-services,,,,,,,,,,,,,Cary,NC,Network Engineer
+li-4478140690,linkedin,https://www.linkedin.com/jobs/view/4478140690,,Senior Control Systems Engineer,HDR,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/hdr,,,,,,,,,,,,,Cary,NC,Network Engineer
+li-4469452759,linkedin,https://www.linkedin.com/jobs/view/4469452759,,Sr. Software Engineer (Accounts),Bandwidth Inc.,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/bandwidth-inc,,,,,,,,,,,,,Cary,NC,Network Engineer
+gd-1010315650967,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315650967,,IT Analyst,Science 37,"Morrisville, NC, USA",2026-11-04,,direct_data,yearly,50486.0,77841.0,USD,False,,,organic,,,Biotech & Pharmaceuticals,https://www.glassdoor.com/Overview/W-EI_IE1076420.htm,https://media.glassdoor.com/sql/1076420/science-37-squareLogo-1647573011753.png,https://www.science37.com,"Morrisville, NC",51 to 200 Employees,Unknown / Non-Applicable,"Science 37’s mission is to accelerate clinical research by enabling universal trial access for patients. Through our solutions; The Direct-to-Patient Site and Patient Recruitment, we accelerate enrollment by expanding the reach of clinical trials to patients beyond the traditional site and rigorously qualifying patients prior to referring them to a traditional site. Our solutions are powered by a proprietary technology stack with in-house medical and operational experts that enhance quality through standardized workflows and best-in-class study orchestration.",,,2.7,,,,Cary,NC,Network Analyst
+li-4476609362,linkedin,https://www.linkedin.com/jobs/view/4476609362,,Senior Security Consultant,IBM,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/ibm,,,,,,,,,,,,,Cary,NC,Network Analyst
+li-4478140691,linkedin,https://www.linkedin.com/jobs/view/4478140691,,Control Systems Engineer,HDR,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/hdr,,,,,,,,,,,,,Cary,NC,Network Analyst
+gd-1010316597680,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316597680,,Technical Support Engineer,NetApp,"Morrisville, NC, USA",2026-11-04,,direct_data,yearly,125000.0,135000.0,USD,False,,,organic,,,Enterprise Software & Network Solutions,https://www.glassdoor.com/Overview/W-EI_IE5406.htm,https://media.glassdoor.com/sql/5406/netapp-squareLogo-1704954829155.png,https://www.netapp.com/,"San Jose, CA",10000+ Employees,$5 to $10 billion (USD),"NetApp is the intelligent data infrastructure company, combining unified data storage, integrated data services, and CloudOps solutions to turn a world of disruption into opportunity for every customer. No matter the data type, workload or environment, we help our customers transform their data infrastructure to identify new business possibilities.",,,3.7,,,,Cary,NC,IT
+gd-1010316012422,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316012422,,Network Technician,viva,"Raleigh, NC, USA",2026-11-04,"fulltime, contract",direct_data,hourly,36.44,41.44,USD,False,,,organic,,,Advertising & Public Relations,https://www.glassdoor.com/Overview/W-EI_IE34263.htm,https://media.glassdoor.com/sql/34263/viva-squarelogo.png,https://www.vivamia.com,"Miami, FL",1 to 50 Employees,$1 to $5 million (USD),"The ViVa Partnership is an independent ad agency specializing in reaching the Hispanic market through offices in Dallas, Los Angeles, Miami, and San Antonio. The agency provides integrated advertising, public relations, marketing communications, and event marketing services for such clients as Dexatrim, FedEx, Neutrogena, and Uniroyal. The ViVa Partnership was founded in Miami in 1997.",,,3.3,,,,Cary,NC,IT
+gd-1010316365419,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316365419,,IT Director/Business Partner,Thermo Fisher Scientific,"Raleigh, NC, USA",2026-11-04,fulltime,direct_data,yearly,161000.0,240000.0,USD,False,,,organic,,,Biotech & Pharmaceuticals,https://www.glassdoor.com/Overview/W-EI_IE658.htm,https://media.glassdoor.com/sql/658/thermo-fisher-scientific-squareLogo-1622674704280.png,https://corporate.thermofisher.com/us/en/index.html,"Waltham, MA",10000+ Employees,$10+ billion (USD),"Our global team of more than 125,000 colleagues delivers an unrivaled combination of innovative technologies, purchasing convenience and pharmaceutical services through our industry-leading brands, including Thermo Scientific, Applied Biosystems, Invitrogen, Fisher Scientific, Unity Lab Services, Patheon and PPD. For more information, please visit www.thermofisher.com.",,,3.5,,,,Cary,NC,IT
+gd-1010316302755,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316302755,,"Tier I Network Technician (Night Shift) | NCDIT, NC 911 Board","Changing Technologies, Inc.","Raleigh, NC, USA",2026-11-04,"fulltime, contract",direct_data,hourly,46.41,46.41,USD,False,,,organic,,,,https://www.glassdoor.com/Overview/W-EI_IE7240487.htm,,,"Houston, TX",Unknown,Unknown / Non-Applicable,,,,,,,,Cary,NC,IT
+gd-1010316079283,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316079283,,End User Support Technician,"Intersoftkk, Inc.","Research Triangle Park, NC, USA",2026-11-04,fulltime,direct_data,yearly,40000.0,42000.0,USD,False,,,organic,,,,,,,,,,,,,,,,,Cary,NC,IT
+gd-1010315925227,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315925227,,Network/Telecom Specialist,Intellibee,"Raleigh, NC, USA",2026-11-04,,direct_data,yearly,53051.0,81138.0,USD,False,,,organic,,,,https://www.glassdoor.com/Overview/W-EI_IE2360395.htm,https://media.glassdoor.com/sql/2360395/intellibee-squarelogo-1560860255360.png,https://www.intellibee.com,"Detroit, MI",1 to 50 Employees,Unknown / Non-Applicable,,,,3.4,,,,Cary,NC,IT
+gd-1010315924352,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315924352,,IT ERP Systems Analyst,Ontic,"Creedmoor, NC, USA",2026-11-04,fulltime,direct_data,yearly,63150.0,93617.0,USD,False,,,organic,,,Aerospace & Defense,https://www.glassdoor.com/Overview/W-EI_IE444820.htm,https://media.glassdoor.com/sql/444820/ontic-engineering-and-manufacturing-squareLogo-1610662471052.png,https://www.ontic.com/,"Cheltenham, United Kingdom",1001 to 5000 Employees,Unknown / Non-Applicable,"Ontic is a leading global aerospace OEM, providing complex engineered parts and repair services for established aircraft in the defense and commercial market.
+
+Boasting a portfolio of 7,500+ top-level assemblies, we are proud to work with our customers around the globe, with our team of experts delivering a wide variety of critical technologies, including fuel measurement systems, as well as a range of avionics, cockpit instruments and controls.
+
+With over 45 years of product manufacturing and aftermarket support experience, we have operations across North America, UK & Europe, and Asia providing strategic worldwide support to civil and defense customers when and where it is needed.
+
+We are helping create a safer, more sustainable future for the aerospace sector, and being more than the sum of our parts, we make a positive difference to our people and to the communities we operate in.",,,3.4,,,,Cary,NC,IT
+gd-1010315733164,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315733164,,Client Solutions Specialist- Lending & Finance Products,Moody's,"Raleigh, NC, USA",2026-11-04,fulltime,direct_data,yearly,67800.0,98400.0,USD,False,,,organic,,,Investment & Asset Management,https://www.glassdoor.com/Overview/W-EI_IE11303.htm,https://media.glassdoor.com/sql/11303/moody-s-corporation-squareLogo-1709740726444.png,https://www.moodys.com,"New York, NY",10000+ Employees,Unknown / Non-Applicable,"In a world shaped by increasingly interconnected risks, Moody’s helps customers develop a holistic view of these risks to advance their business and act decisively. With a rich history of expertise in global markets and a diverse workforce in more than 40 countries, Moody’s unites the brightest minds to turn today’s risks into tomorrow’s opportunities.",,,3.7,,,,Cary,NC,IT
+gd-1010316359275,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316359275,,Workload Operations Technician and Customer Relations Manager,SAIC,"Fort Bragg, NC, USA",2026-11-04,fulltime,direct_data,yearly,40001.0,80000.0,USD,False,,,organic,,,Information Technology Support Services,https://www.glassdoor.com/Overview/W-EI_IE41130.htm,https://media.glassdoor.com/sql/41130/saic-squareLogo-1747750449267.png,http://www.saic.com,"Reston, VA",10000+ Employees,$5 to $10 billion (USD),"SAIC® is a premier mission integrator focused on advancing the power of technology and innovation to serve and protect our world. Our robust portfolio of offerings across the defense, space, intelligence, and civilian markets includes secure high-end solutions in mission IT, enterprise IT, engineering services, and professional services. We integrate emerging technology, rapidly and securely, into mission critical operations that modernize and enable critical national imperatives.
+
+We are approximately 23,000 strong; driven by mission, united by purpose, and inspired by opportunities. Headquartered in Reston, Virginia, SAIC has annual revenues of approximately $7.3 billion. For more information, visit saic.com. For ongoing news, please visit our newsroom.",,,3.9,,,,Cary,NC,IT
+gd-1010315851695,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315851695,,Mobile Deployment Technician Charlotte NC,My3Tech Inc,"Raleigh, NC, USA",2026-11-04,fulltime,direct_data,hourly,20.0,22.0,USD,False,,,organic,,,,https://www.glassdoor.com/Overview/W-EI_IE1616403.htm,https://media.glassdoor.com/sql/1616403/my3tech-squarelogo-1524661548953.png,https://www.my3tech.com,"Pierre, SD",1 to 50 Employees,Less than $1 million (USD),,,,4.3,,,,Cary,NC,IT
+gd-1010316754208,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316754208,,SIEM Engineer,SYSTEMTEC,USA,2026-11-04,contract,direct_data,hourly,87.0,87.0,USD,True,,,sponsored,,,Business Consulting,https://www.glassdoor.com/Overview/W-EI_IE266176.htm,https://media.glassdoor.com/sql/266176/systemtec-squareLogo-1692649876927.png,https://www.systemtec.net,"Columbia, SC",51 to 200 Employees,Unknown / Non-Applicable,"Since inception in 1998, SYSTEMTEC has been providing professional technical consulting services to large and small organizations, across private and public sectors, and to vertical markets including healthcare, product engineering, government, financial services, energy, manufacturing and distribution.
+
+ Our expertise in recruiting is specific to technologies that include enterprise solutions, application development, business analysis, reporting, project management, quality assurance, testing, infrastructure, and technical support.",,,4.5,,,,Cary,NC,IT
+in-e200114299995aa8,indeed,https://www.indeed.com/viewjob?jk=e200114299995aa8,https://careers.netapp.com/job/morrisville/technical-support-engineer/27600/102839923968,Technical Support Engineer,NetApp,"Morrisville, NC, USA",2026-11-04,,direct_data,yearly,125000.0,135000.0,USD,False,,,,,"**Own Every Moment at NetApp**
+
+At NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.
+
+Ready to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins. Join teams that innovate to elevate, drive results, and excel together across every function.
+
+**Technical Support Engineer**
+==============================
+
+Morrisville, North Carolina, United States
+
+**Job category:** Customer Support **Job ID:** 136593-en\_US
+
+**Short Description**
+---------------------
+
+**Technical Support Engineer 4 / Escalation Engineer with Ontap, DP, NAS, SAN, Performance expertise in Storage Industry.**
+
+**Role Overview:**
+
+Provides technical support to customers and partners. The Technical Support Engineer ensures mission‑critical systems operate smoothly by diagnosing, troubleshooting, repairing, and debugging NetApp products. The role handles complex issues escalated beyond first‑line support and requires strong hardware and software expertise, a proactive problem‑solving mindset, and a commitment to excellent customer service. Occasionally designs and deliver technical training/brown-bags. Reports design and reliability problems or code issues to software engineering. A strong interest in AI and openness to using AI‑driven tools is considered an added value. **Person should be willing to work during weekends night shift for Fri, Sat, Mon to manage high critical/Priority customer calls/cases managed through the queues.**
+
+**Job Requirements**
+--------------------
+
+**Job Requirements**
+
+* Good written and verbal communication skills.
+* Good interpersonal communication and customer service skills are needed in order to work successfully with customers in high stress and/or ambiguous situations, also coordinate and collaborate with other GEO peers.
+* Strong aptitude for learning new technologies and understanding how to utilize them in a customer-facing environment.
+* Ability to follow standard engineering principles and practices.
+* Creative approach to problem solving.
+* Understanding of AI tools, systems and practices.
+
+**Key Responsibilities:**
+
+* Address technical issues unresolved by initial NetApp product support.
+* Collaborate with other NetApp Technical Support teams or escalate cases to Engineering for complex problems.
+* Create knowledge base articles to share information and best practices.
+* Specialize in NetApp Ontap architecture, Core, Hardware, WAFL, NAS, SAN, Performance areas developing deep technical expertise.
+* Troubleshoot challenging technical issues, always prioritizing excellent customer service.
+
+**Technical Skills Preferred:**
+
+* Data Protection & Backup Expertise: Enterprise backup tools, Replications technologies, backup strategies, recovery concepts
+* Storage Systems: NetApp Ontap Architecture, Core, Hardware, SAN (iSCSI/FC), NAS (NFS, CIFS/SMB), object storage (S3)
+* Networking Fundamentals: TCP/IP, VLANs, routing
+* Virtualization & Platform Integration : (Vmware and Container Storage)
+* Cloud & Hybrid Storage: General knowledge of various cloud concepts including S3, Blob, EBS...
+* Operational & Troubleshooting Skills: Root cause analysis across storage, network, and backup layers and Performance analysis
+
+**Additional exposure such as:**
+
+* UNIX/Linux configuration, administration and technical support
+* Microsoft Windows environment configuration, system administration and technical support
+* The interoperability of some enterprise applications (such as Oracle, SAP, Microsoft Exchange or Microsoft SQL Server) with storage systems and solutions
+* Server, and Desktop Virtualization Solutions (such as VMware, Hyper-V, XenServer ...)
+* Backup Solutions with enterprise applications
+* Snapshot/ShadowCopy technology
+
+**Education**
+-------------
+
+* Minimum 10 years in a similar technical support role.
+* Bachelor’s degree in Engineering or Computer Science, or equivalent experience.
+* Demonstrated passion and ability to learn new technologies quickly.
+* Strong teamwork, creativity, and a proactive approach to problem-solving.
+* Ability to multi-task, manage workload, and prioritise based on business impact.
+* Aptitude for learning and applying new technologies in customer-facing environments.
+* Adherence to standard engineering principles and practices.
+
+The target salary range for this position is 125,000 - 135,000 USD. The salary offered will be determined by the candidate's location, qualifications, experience, and education and may be outside of this range. Final compensation packages are competitive and in line with industry standards, reflecting a variety of factors, and include a comprehensive benefits package. This may cover Health Insurance, Life Insurance, Retirement or Pension Plans, Paid Time Off (PTO), various Leave options, Performance-Based Incentives, employee stock purchase plan, and/or restricted stocks (RSU’s), with all offerings subject to regional variations and governed by local laws, regulations, and company policies. Benefits may vary by country and region, and further details will be provided as part of the recruitment process.
+
+At NetApp, we embrace a hybrid working environment designed to strengthen connection, collaboration, and culture for all employees. This means that most roles will have some level of in-office and/or in-person expectations, which will be shared during the recruitment process.
+
+**Equal Opportunity Employer:**
+
+NetApp is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination based on age, race, color, gender, sexual orientation, gender identity, national origin, religion, disability or genetic information, pregnancy, protected veteran status, and any other protected classification.
+
+**Why You'll Thrive at NetApp**
+
+At NetApp, you won't wait for the perfect moment—you'll make it. The early planning, the extra thought, the bold idea that turns good into great: That's how our people operate and how we continue to push the boundaries of data infrastructure.
+
+NetApp is the trusted partner for organizations transforming data into opportunity. As the only enterprise-grade storage service natively embedded in Google Cloud, AWS, and Microsoft Azure, we empower customers to run everything from traditional workloads to enterprise AI with unmatched performance, resilience, and security.
+
+**Our culture**
+
+We celebrate mold breakers, bold thinkers, and problem solvers. We reward initiative, impact, and ownership. We provide flexibility so you can balance professional ambition with your personal life. Here, differences are not just welcomed—they drive everything we do.
+
+If you're ready to innovate, rise to the challenge, and own every moment - make your next move your best one. Apply now.
+
+**Submitting an Application**
+
+To ensure a streamlined and fair hiring process for all candidates, our team only reviews applications submitted through our company website. This practice allows us to track, assess, and respond to applicants efficiently. Emailing our employees, recruiters, or Human Resources personnel directly will not influence your application.
+
+**AI Disclosure**
+
+For select roles, some stages of our hiring process may use artificial intelligence tools to help evaluate applications and candidate selection. These tools support—rather than replace—human decision-making.",,https://www.indeed.com/cmp/Netapp,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cf64898407ab1923dcc17bea61bfb37d,https://www.netapp.com,Cork,"10,000+",$5B to $10B (USD),"If you run toward knowledge and problem-solving, join us.",,,4.1,836.0,,,Cary,NC,IT
+li-4434812043,linkedin,https://www.linkedin.com/jobs/view/4434812043,,FSO - Tech Cons - Platforms - P&C Insurance - Guidewire - Technical Consultant - Manager,EY,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://uk.linkedin.com/company/ernstandyoung,,,,,,,,,,,,,Cary,NC,IT
+li-4487287514,linkedin,https://www.linkedin.com/jobs/view/4487287514,,"Director, IT Business Systems Analyst",RTI Health Solutions,"Durham, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/rti-health-solutions,,,,,,,,,,,,,Cary,NC,IT
+li-4487297203,linkedin,https://www.linkedin.com/jobs/view/4487297203,,"Director, IT Business Systems Analyst",RTI International,"Durham, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/rti-international,,,,,,,,,,,,,Cary,NC,IT
+li-4452056997,linkedin,https://www.linkedin.com/jobs/view/4452056997,,Technical Program Manager Cloud,Tata Consultancy Services,"Triangle, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://in.linkedin.com/company/tata-consultancy-services,,,,,,,,,,,,,Cary,NC,IT
+li-4479202515,linkedin,https://www.linkedin.com/jobs/view/4479202515,,"Lead Integration Architect, Finance Systems Automation",Acrisure,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/acrisure,,,,,,,,,,,,,Cary,NC,IT
+li-4478158672,linkedin,https://www.linkedin.com/jobs/view/4478158672,,Software Developer,PAR Technology,"North Carolina, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/partechnology,,,,,,,,,,,,,Cary,NC,IT
+li-4487238657,linkedin,https://www.linkedin.com/jobs/view/4487238657,,"Delivery Success Leader, Enterprise Systems",Labcorp,"Durham, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/labcorp,,,,,,,,,,,,,Cary,NC,IT
+li-4470677998,linkedin,https://www.linkedin.com/jobs/view/4470677998,,IT Engineering and Strategy Transformation Senior Manager,Deloitte,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/deloitte,,,,,,,,,,,,,Cary,NC,IT
+li-4481901136,linkedin,https://www.linkedin.com/jobs/view/4481901136,,Senior Application System Analyst,Blue Cross NC,Raleigh-Durham-Chapel Hill Area,2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/bluecrossnc,,,,,,,,,,,,,Cary,NC,IT
+li-4470618628,linkedin,https://www.linkedin.com/jobs/view/4470618628,,BUS SYSTEMS ANALYST,First Horizon Bank,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/first-horizon-bank,,,,,,,,,,,,,Cary,NC,IT
+li-4487294223,linkedin,https://www.linkedin.com/jobs/view/4487294223,,Bilingual Remote Technical Support & Customer Service Specialist,Apollo Net LLC,"North Carolina, USA",2026-11-04,,,,,,,True,,,,,,,https://www.linkedin.com/company/apollo-net-llc,,,,,,,,,,,,,Cary,NC,Helpdesk
+li-4486389574,linkedin,https://www.linkedin.com/jobs/view/4486389574,,Sr. CareRadius Application System Analyst,Optomi,"North Carolina, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/optomi,,,,,,,,,,,,,Cary,NC,Helpdesk
+li-4487264119,linkedin,https://www.linkedin.com/jobs/view/4487264119,,Manager Provider Embedded Support,UNC Health,Raleigh-Durham-Chapel Hill Area,2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/unchealth,,,,,,,,,,,,,Cary,NC,Helpdesk
+li-4461517081,linkedin,https://www.linkedin.com/jobs/view/4461517081,,Business Administrator,Körber Pharma,"Apex, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://de.linkedin.com/company/koerber-pharma,,,,,,,,,,,,,Cary,NC,Helpdesk
+li-4478173728,linkedin,https://www.linkedin.com/jobs/view/4478173728,,Customer Success Manager - Asset Intelligence,MaintainX,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/getmaintainx,,,,,,,,,,,,,Cary,NC,Helpdesk
+li-4470634760,linkedin,https://www.linkedin.com/jobs/view/4470634760,,Digital Applications Manager - Hybrid/Remote (LSNA-PA/OH/IN/NC),Jacobs,"Cary, NC, USA",2026-11-04,,,,,,,True,,,,,,,https://www.linkedin.com/company/jacobs,,,,,,,,,,,,,Cary,NC,Helpdesk
+li-4478167729,linkedin,https://www.linkedin.com/jobs/view/4478167729,,Operations Coordinator,NeoGenomics Laboratories,"Durham, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/neogenomics-laboratories,,,,,,,,,,,,,Cary,NC,Helpdesk
+li-4424909568,linkedin,https://www.linkedin.com/jobs/view/4424909568,,"Lead AI Engineer, Biomedical & Vigilance Innovation",United Therapeutics Corporation,Raleigh-Durham-Chapel Hill Area,2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/unitedtherapeutics,,,,,,,,,,,,,Cary,NC,Security Engineer
+li-4487501006,linkedin,https://www.linkedin.com/jobs/view/4487501006,,AWS Technical Architect,Nityo Infotech,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/nityo-infotech,,,,,,,,,,,,,Cary,NC,Security Engineer
+li-4487258559,linkedin,https://www.linkedin.com/jobs/view/4487258559,,"Solutions Architect III - AWS WWPS, US Department of War, U.S. Army Solutions Architecture Team",Amazon Web Services (AWS),"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/amazon-web-services,,,,,,,,,,,,,Cary,NC,Security Engineer
+li-4487501000,linkedin,https://www.linkedin.com/jobs/view/4487501000,,Veeva Vault Manager,NAVA Software Solutions,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/nava-software-solutions,,,,,,,,,,,,,Cary,NC,Security Engineer
+gd-1010316091924,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316091924,,Soc/Clin Research Assistant,University of North Carolina at Chapel Hill,"Chapel Hill, NC, USA",2026-11-04,"parttime, temporary",direct_data,hourly,25.0,25.0,USD,False,,,organic,,,Colleges & Universities,https://www.glassdoor.com/Overview/W-EI_IE534522.htm,https://media.glassdoor.com/sql/534522/unc-school-of-medicine-squarelogo-1585723578464.png,https://www.med.unc.edu,"Chapel Hill, NC",1 to 50 Employees,$1 to $5 million (USD),,,,3.9,,,,Cary,NC,SOC
+gd-1010316362852,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316362852,,Design Verification Engineer,Apple,"Cary, NC, USA",2026-11-04,fulltime,,,,,,False,,,organic,,,Computer Hardware Development,https://www.glassdoor.com/Overview/W-EI_IE1138.htm,https://media.glassdoor.com/sql/1138/apple-squarelogo-1595530154096.png,https://www.apple.com,"Cupertino, CA",10000+ Employees,$10+ billion (USD),"We’re a diverse collective of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways. And the same innovation that goes into our products also applies to our practices — strengthening our commitment to leave the world better than we found it. This is where your work can make a difference in people’s lives. Including your own.  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.",,,4.1,,,,Cary,NC,SOC
+gd-1010316360146,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316360146,,Design Verification Engineer,Apple,"Cary, NC, USA",2026-11-04,fulltime,,,,,,False,,,organic,,,Computer Hardware Development,https://www.glassdoor.com/Overview/W-EI_IE1138.htm,https://media.glassdoor.com/sql/1138/apple-squarelogo-1595530154096.png,https://www.apple.com,"Cupertino, CA",10000+ Employees,$10+ billion (USD),"We’re a diverse collective of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways. And the same innovation that goes into our products also applies to our practices — strengthening our commitment to leave the world better than we found it. This is where your work can make a difference in people’s lives. Including your own.  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.",,,4.1,,,,Cary,NC,SOC
+gd-1010315973025,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315973025,,Assistant Vice Chancellor for Advancement Services,North Carolina Central University,"Durham, NC, USA",2026-11-04,fulltime,direct_data,yearly,61860.0,89086.0,USD,False,,,organic,,,Colleges & Universities,https://www.glassdoor.com/Overview/W-EI_IE128904.htm,https://media.glassdoor.com/sql/128904/north-carolina-central-university-squarelogo.png,https://www.nccu.edu,"Durham, NC",1001 to 5000 Employees,$100 to $500 million (USD),,,,3.5,,,,Cary,NC,SOC
+li-4450289206,linkedin,https://www.linkedin.com/jobs/view/4450289206,,"Instructor 9M Cybersecurity, Digital Forensics",Wake Technical Community College,"Morrisville, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/school/waketechcc/,,,,,,,,,,,,,Cary,NC,SOC
+li-4469923162,linkedin,https://www.linkedin.com/jobs/view/4469923162,,Operations Analyst Technician,General Dynamics Information Technology,"Fort Liberty, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/gdit,,,,,,,,,,,,,Cary,NC,SOC
+li-4486372452,linkedin,https://www.linkedin.com/jobs/view/4486372452,,"Software Engineer III, Site Reliability Engineering",Google,"Durham, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/google,,,,,,,,,,,,,Cary,NC,NOC
+gd-1010316125450,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316125450,,Oracle Systems Administrator,Sunbelt Rentals Inc.,"Fort Mill, SC, USA",2026-11-04,fulltime,direct_data,yearly,113342.0,155846.0,USD,False,,,organic,,,Commercial Equipment Services,https://www.glassdoor.com/Overview/W-EI_IE19665.htm,https://media.glassdoor.com/sql/19665/sunbelt-rentals-squareLogo-1654183230881.png,https://www.sunbeltrentals.com,"Fort Mill, SC",10000+ Employees,$10+ billion (USD),"We are Sunbelt Rentals, the fastest growing equipment rental company in North America. Sunbelt Rentals is constantly advancing the idea of how a company can best help its customers build and maintain the world around us. With a vast network of locations across North America and an expansive portfolio of products and services, we deliver solutions to support any job.
+
+1,300+ Locations
+20,000+ Team Members
+$15B Rental Fleet Investment",,,3.4,,,,Charlotte,NC,Systems Administrator
+li-4479209775,linkedin,https://www.linkedin.com/jobs/view/4479209775,,Systems Administrator,GM Performance Power Units,"Concord, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/gmppu,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4470624379,linkedin,https://www.linkedin.com/jobs/view/4470624379,,IT CONSULTANT SR,First Horizon Bank,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/first-horizon-bank,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4484360671,linkedin,https://www.linkedin.com/jobs/view/4484360671,,M365 Engineer,Akkodis,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/akkodis,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4487233824,linkedin,https://www.linkedin.com/jobs/view/4487233824,,Lead Database Administrator (Remote EST - United States),Partnerize,"Charlotte, NC, USA",2026-11-04,,,,,,,True,,,,,,,https://www.linkedin.com/company/partnerize,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4479246360,linkedin,https://www.linkedin.com/jobs/view/4479246360,,IT Infrastructure Platform Leader,U.S. Bank,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/us-bank,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4479226888,linkedin,https://www.linkedin.com/jobs/view/4479226888,,"Senior Engineer, Reliability",LPL Financial,"Fort Mill, SC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/lpl-financial,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4385846413,linkedin,https://www.linkedin.com/jobs/view/4385846413,,Azure Cloud Engineer III,Ahold Delhaize USA,"Salisbury, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/ahold-delhaize-usa,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4479097695,linkedin,https://www.linkedin.com/jobs/view/4479097695,,Platform Operations Support Engineer,NTT DATA North America,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/ntt-data-americas,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4487259344,linkedin,https://www.linkedin.com/jobs/view/4487259344,,OT Field Engineer II,Radian Generation,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/radian-generation,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4469019769,linkedin,https://www.linkedin.com/jobs/view/4469019769,,"SRE Operations Lead - AWS, GitLab & AIOps",Tata Consultancy Services,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://in.linkedin.com/company/tata-consultancy-services,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4479204613,linkedin,https://www.linkedin.com/jobs/view/4479204613,,"Staff Engineer, Site Reliability Engineering",General Motors,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/general-motors,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4453894792,linkedin,https://www.linkedin.com/jobs/view/4453894792,,IAM Engineer / Lead,Arkhya Tech Inc.,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/arkhyatech,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4460084827,linkedin,https://www.linkedin.com/jobs/view/4460084827,,Information Security Engineer IV,Capital Group,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/capital-group,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4486881002,linkedin,https://www.linkedin.com/jobs/view/4486881002,,Integration Engineer,Matlen Silver,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/matlen-silver,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+li-4479278407,linkedin,https://www.linkedin.com/jobs/view/4479278407,,Sr Network Security Engineer,"Lowe's Companies, Inc.","Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/lowe's-home-improvement,,,,,,,,,,,,,Charlotte,NC,Systems Administrator
+gd-1010316114074,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316114074,,Network Engineer,"IDR, Inc.","Charlotte, NC, USA",2026-11-04,fulltime,direct_data,yearly,86953.0,121941.0,USD,False,,,sponsored,,,,https://www.glassdoor.com/Overview/W-EI_IE11234261.htm,,,"Helsinki, Finland",1 to 50 Employees,Unknown / Non-Applicable,,,,,,,,Charlotte,NC,Network Engineer
+gd-1010315716967,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315716967,,OT Field Engineer II,Radian Generation,"Charlotte, NC, USA",2026-11-04,fulltime,direct_data,yearly,95000.0,105000.0,USD,False,,,organic,,,,https://www.glassdoor.com/Overview/W-EI_IE1488802.htm,https://media.glassdoor.com/sql/1488802/radiangen-squarelogo-1498132990261.png,https://www.radiangen.com,"Oakland, CA",1 to 50 Employees,Unknown / Non-Applicable,,,,4.4,,,,Charlotte,NC,Network Engineer
+gd-1010315716920,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315716920,,Identity & Access Management Engineer,Davidson College,"Davidson, NC, USA",2026-11-04,fulltime,direct_data,yearly,89789.0,131247.0,USD,False,,,organic,,,Colleges & Universities,https://www.glassdoor.com/Overview/W-EI_IE26040.htm,https://media.glassdoor.com/sql/26040/davidson-college-squarelogo.png,https://www.davidson.edu,"Davidson, NC",1001 to 5000 Employees,$100 to $500 million (USD),"The 1,700 students at Davidson College account for about a fifth of the population in a small North Carolina town with the same name. Located just north of Charlotte, the liberal arts school offers 20 majors and 12 minors in areas such as anthropology, art, economics, history, and philosophy. It also offers pre-professional programs in medicine, law, business, ministerial, and management. Students are bound by a strict honor code that allows self-scheduled, unproctored exams and prohibits students from cheating and stealing. The school was founded in 1837 by Presbyterian ministers and named for Revolutionary War commander William Davidson. The college is supported by a more than $485 million endowment.",,,4.4,,,,Charlotte,NC,Network Engineer
+gd-1010315957853,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315957853,,Cybersecurity / IT Security Associateship -- Veterans Access Track,Primary Talent Partners,"Fort Mill, SC, USA",2026-11-04,internship,,,,,,False,,,sponsored,,,,https://www.glassdoor.com/Overview/W-EI_IE3658048.htm,https://media.glassdoor.com/sql/3658048/primary-talent-international-squarelogo-1642574890404.png,https://www.primarytalent.com,"London, United Kingdom",1 to 50 Employees,Unknown / Non-Applicable,,,,3.2,,,,Charlotte,NC,Network Engineer
+gd-1010316644015,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316644015,,Senior Cybersecurity Systems Engineering Analyst,Duke Energy,"Charlotte, NC, USA",2026-11-04,fulltime,direct_data,yearly,108110.0,140214.0,USD,False,,,organic,,,Energy & Utilities,https://www.glassdoor.com/Overview/W-EI_IE211.htm,https://media.glassdoor.com/sql/211/duke-energy-squarelogo-1486043841824.png,https://www.duke-energy.com,"Charlotte, NC",10000+ Employees,$10+ billion (USD),"Duke Energy Corporation is an energy company headquartered in Charlotte, N.C. Its Regulated Utilities business unit serves 7.4 million retail electric customers in six states in the Southeast and Midwest regions of the United States, representing a population of approximately 24 million people. Duke Energy is a Fortune 125 company traded on the New York Stock Exchange under the symbol DUK. More information about the company is available at duke-energy.com.",,,4.0,,,,Charlotte,NC,Network Engineer
+gd-1010315780814,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315780814,,Lead Information Security Engineer,Wells Fargo,"Charlotte, NC, USA",2026-11-04,fulltime,direct_data,yearly,121002.0,155521.0,USD,False,,,organic,,,Banking & Lending,https://www.glassdoor.com/Overview/W-EI_IE8876.htm,https://media.glassdoor.com/sql/8876/wells-fargo-squareLogo-1783696136572.png,https://www.wellsfargojobs.com/en/well-life/,"San Francisco, CA",10000+ Employees,$10+ billion (USD),"Are you looking for more? Find it here.
+At Wells Fargo, we're more than a financial services leader – we’re a global trailblazer committed to driving innovation, empowering communities, and helping our customers succeed. We believe that a meaningful career is much more than just a job – it’s about finding all of the elements to help you thrive, in one place. Living the Well Life means you’re supported in life, not just work. It means having robust benefits, competitive compensation, and programs designed to help you find work-life balance and well-being. You’ll be rewarded for investing in your community, celebrated for being your authentic self, and empowered to grow. And we’re recognized for it — Wells Fargo continues to rank on the LinkedIn Top Companies lists of best workplaces “to grow your career.”
+
+Learn more at www.wellsfargojobs.com.
+
+Wells Fargo & Company (NYSE: WFC) is a leading financial services company that has approximately $2.3 trillion in assets. We provide a diversified set of banking, investment and mortgage products and services, as well as consumer and commercial finance, through our four reportable operating segments: Consumer Banking and Lending, Commercial Banking, Corporate and Investment Banking, and Wealth & Investment Management. Wells Fargo ranked No. 38 on Fortune’s 2026 rankings of America’s largest corporations. 
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other legally protected characteristic.",,,3.5,,,,Charlotte,NC,Network Engineer
+gd-1010315769606,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315769606,,Senior Unified Communications Engineer,LPL Financial Corp,"Fort Mill, SC, USA",2026-11-04,fulltime,direct_data,hourly,43.78,72.94,USD,False,,,organic,,,Investment & Asset Management,https://www.glassdoor.com/Overview/W-EI_IE227035.htm,https://media.glassdoor.com/sql/227035/lpl-financial-squareLogo-1727879169742.png,https://www.lpl.com,"San Diego, CA",5001 to 10000 Employees,$1 to $5 billion (USD),"Fueling Your Potential
+
+Today, we’re a team of 9,000 people serving over 32,000 financial advisors who bring financial advice to 8 million families. From easing the workload for our advisors and financial institutions to elevating their experience as wealth managers, to inspiring our staff who give their all each day, we’ll never stop believing that anything’s possible.
+
+LPL Financial Holdings Inc. (Nasdaq: LPLA) is among the fastest growing wealth management firms in the U.S.  The firm provides a wide range of advisor affiliation models, investment solutions, fintech tools and practice management services, ensuring that advisors and institutions have the flexibility to choose the business model, services, and technology resources they need to run thriving businesses. ",,,3.5,,,,Charlotte,NC,Network Engineer
+in-1ac1319e04387eff,indeed,https://www.indeed.com/viewjob?jk=1ac1319e04387eff,https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/Senior-Cybersecurity-Systems-Engineering-Analyst_R42316,Senior Cybersecurity Systems Engineering Analyst,Duke Energy,"Charlotte, NC, USA",2026-11-04,fulltime,,,,,,False,,,,,"**Important Application Submission Information**
+
+In order to ensure your application is successfully received before the job posting expires, please submit your application by 11:59 PM on Friday, November 6, 2026
+
+**More than a career - a chance to make a difference in people's lives.**
+-------------------------------------------------------------------------
+
+Build an exciting, rewarding career with us – help us make a difference for millions of people every day. Consider joining the Duke Energy team, where you'll find a friendly work environment, opportunities for growth and development, recognition for your work, and competitive pay and benefits.
+
+**Position Summary**
+--------------------
+
+The Cloud Security Specialist will help secure, monitor, and improve cloud-hosted environments across AWS, Microsoft Azure, Google Cloud Platform, and Oracle Cloud Infrastructure. This role will design and implement cloud security measures, manage security tooling, identify and prioritize risk, and partner with engineering and cybersecurity teams to remediate vulnerabilities, misconfigurations, excessive permissions, and other security issues. The specialist will support the implementation, configuration, operationalization, and ongoing optimization of the Wiz Cloud-Native Application Protection Platform. The role will use Wiz to analyze cloud risks, including vulnerabilities, misconfigurations, identity risks, attack paths, and toxic combinations, while helping accelerate remediation across the cloud estate.
+
+**Key Responsibilities**
+------------------------
+
+**Cloud Security Architecture and Engineering**
+
+* Consult on and implement secure, scalable, and resilient cloud architectures across AWS, Microsoft Azure, Google Cloud Platform, and Oracle Cloud Infrastructure.
+* Evaluate cloud security controls involving network security, firewalls, encryption, identity, access, workloads, data, and cloud configurations.
+* Provide security guidance for cloud deployments and help teams align solutions with established cloud security requirements and architectural standards.
+* Partner with cloud engineering, application, infrastructure, and cybersecurity teams to integrate security throughout the cloud lifecycle.
+
+**Wiz CNAPP Operations**
+
+* Configure, maintain, and optimize Wiz policies, rules, integrations, and alert settings.
+* Monitor and prioritize Wiz findings involving vulnerabilities, misconfigurations, identity risks, exposed resources, attack paths, and toxic combinations.
+* Improve policy tuning and risk prioritization to reduce noise and focus remediation efforts on material cloud risks.
+* Support the implementation and continued operationalization of Wiz across the organization’s multi-cloud environment.
+* Assist technical teams with interpreting Wiz findings and identifying appropriate remediation actions.
+
+**Vulnerability and Risk Management**
+
+* Conduct security assessments and reviews of cloud configurations, workloads, access controls, and deployed services.
+* Identify and prioritize vulnerabilities, insecure configurations, excessive permissions, and deviations from security requirements.
+* Work with responsible engineering and application teams to track and accelerate remediation.
+* Support risk-based prioritization by considering technical severity, exposure, identity relationships, business context, and potential attack paths.
+
+**Identity and Access Management**
+
+* Evaluate cloud identities, roles, permissions, and access relationships.
+* Support the implementation and maintenance of least-privilege access across cloud environments.
+* Identify excessive, unused, or high-risk cloud permissions and work with service owners to reduce unnecessary access.
+* Assist with reviewing identity-related Wiz findings and cloud entitlement risks.
+
+**Threat Detection and Incident Response**
+
+* Monitor cloud environments for suspicious activity, unauthorized access, vulnerabilities, and security anomalies.
+* Investigate potential attacks and cloud security events using Wiz and other available security technologies.
+* Support cloud threat hunting, incident investigation, containment, and remediation.
+* Assist with developing and improving response procedures and playbooks for cloud workloads.
+* Apply knowledge of the MITRE ATT&CK framework when investigating threats and developing detection or response approaches.
+
+**DevSecOps and Automation**
+
+* Review cloud deployments delivered through infrastructure as code and CI/CD pipelines.
+* Collaborate with engineering teams to integrate cloud security controls into repositories, deployment pipelines, and orchestration processes.
+* Develop queries, scripts, automated checks, and detection mechanisms to improve cloud risk identification and remediation.
+* Use technologies such as CNAPP query languages, JSON, and automation scripts to support security operations.
+
+**Governance, Compliance, and Reporting**
+
+* Help cloud environments align with internal security policies and applicable security frameworks.
+* Support configuration reviews against NIST guidance, CIS Benchmarks, and cloud-native security practices.
+* Develop metrics and reporting that communicate cloud security risks, remediation progress, recurring issues, and operational trends.
+* Provide clear and actionable information to technical teams and cybersecurity stakeholders.
+
+**Basic/Required Qualifications**
+---------------------------------
+
+  
+
+* High School/GED
+* Minimum 9 years related work experience
+
+**Desired Qualifications**
+
+* Demonstrated experience securing or operating cloud environments in one or more major cloud platforms, including AWS, Microsoft Azure, Google Cloud Platform, or Oracle Cloud Infrastructure.
+* Experience with cloud security architecture, vulnerability management, security configuration, identity and access management, or security operations.
+* Working knowledge of cloud-native services, workloads, identities, networking, and security controls.
+* Experience analyzing vulnerabilities, misconfigurations, permissions, or other cloud security findings.
+* Ability to communicate security risks and remediation requirements to engineering, application, infrastructure, and cybersecurity teams.
+* Experience working collaboratively across technical and business teams.
+
+**Preferred Qualifications**
+----------------------------
+
+* Hands-on experience with Wiz or another Cloud-Native Application Protection Platform.
+* Experience implementing, configuring, tuning, or operating CNAPP capabilities.
+* Familiarity with infrastructure as code, CI/CD pipelines, source-code repositories, and orchestration technologies.
+* Knowledge of NIST guidance, CIS Benchmarks, MITRE ATT&CK, and cloud-native security practices.
+* Experience with scripting, automation, JSON, security queries, or metrics development.
+* Experience conducting cloud threat hunting or supporting incident response for cloud workloads.
+* Experience securing multi-cloud environments
+
+**Working Conditions**
+----------------------
+
+* **Hybrid Mobility Classification** – Work will be performed from both remote and onsite locations after the onboarding period. However, hybrid employees must live within a reasonable commute to their designated Duke Energy facility, not greater than 50 miles one way. Employees are expected to report to their assigned Duke Energy facility as required and directed by their manager, on average 3 full workdays per regular workweek.
+* Office Environment
+
+**Specific Requirements**
+-------------------------
+
+* HS/GED: 9 yrs work experience {required}Associates: 7 yrs work experience {preferred}Bachelors: 5 yrs work experience {preferred}
+
+**Travel Requirements**
+
+5-15%
+
+### **Relocation Assistance Provided (as applicable)**
+
+No
+
+### **Represented/Union Position**
+
+No
+
+### **Visa Sponsored Position**
+
+No. This is not a Visa Sponsored Position. This role requires the ability to work lawfully in the U.S. without employment-based immigration sponsorship, now or in the future.
+
+### **Please note that in order to be considered for this position, you must possess all of the basic/required qualifications.**
+
+Privacy
+
+Do Not Sell My Personal Information (CA)
+
+Terms of Use
+
+Accessibility",Energy And Utilities,https://www.indeed.com/cmp/Duke-Energy,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1b3b873196aef074a768b9237f0612b8,http://www.duke-energy.com/,"525 S. Tryon St. Mailcode DEP09 Charlotte, NC 28202","10,000+",$5B to $10B (USD),"Based in Charlotte, North Carolina, Duke Energy has nearly 8 million electricity or natural gas customers in the Midwest and Southern United States.",,,3.8,1941.0,,,Charlotte,NC,Network Engineer
+li-4487265051,linkedin,https://www.linkedin.com/jobs/view/4487265051,,Business Technical Support I,Spectrum Business,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/spectrum-business,,,,,,,,,,,,,Charlotte,NC,Network Engineer
+li-4486381392,linkedin,https://www.linkedin.com/jobs/view/4486381392,,Telecom ISP Technician,Contel Inc,Charlotte Metro,2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/contel-inc,,,,,,,,,,,,,Charlotte,NC,Network Engineer
+li-4478137709,linkedin,https://www.linkedin.com/jobs/view/4478137709,,Senior Control Systems Engineer,HDR,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/hdr,,,,,,,,,,,,,Charlotte,NC,Network Engineer
+li-4479236151,linkedin,https://www.linkedin.com/jobs/view/4479236151,,"Sr. Solutions Architect, Energy and Utilities, Solutions Architect",Amazon Web Services (AWS),"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/amazon-web-services,,,,,,,,,,,,,Charlotte,NC,Network Engineer
+li-4487277721,linkedin,https://www.linkedin.com/jobs/view/4487277721,,Deployment Technician,"American Unit, Inc","Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/american-unit-inc,,,,,,,,,,,,,Charlotte,NC,Network Engineer
+li-4485514000,linkedin,https://www.linkedin.com/jobs/view/4485514000,,Integration & Automation Engineer - IEC 61850,Schweitzer Engineering Laboratories (SEL),"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/sel,,,,,,,,,,,,,Charlotte,NC,Network Engineer
+gd-1010316044636,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316044636,,Payments Quality Engineer 6583129,Logic,"Charlotte, NC, USA",2026-11-04,fulltime,direct_data,hourly,44.0,54.0,USD,False,,,organic,,,Food & Beverage Manufacturing,https://www.glassdoor.com/Overview/W-EI_IE1304546.htm,https://media.glassdoor.com/sql/1304546/logic-squarelogo-1708422876020.png,http://www.logicecig.com,"Pompano Beach, FL",Unknown,Unknown / Non-Applicable,,,,3.9,,,,Charlotte,NC,Network Analyst
+gd-1010315848998,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315848998,,IT Systems Analyst,First Horizon Bank,"Charlotte, NC, USA",2026-11-04,fulltime,direct_data,yearly,79431.0,118556.0,USD,False,,,organic,,,Banking & Lending,https://www.glassdoor.com/Overview/W-EI_IE317187.htm,https://media.glassdoor.com/sql/317187/first-horizon-squarelogo-1572551112326.png,https://www.firsthorizon.com,"Memphis, TN",5001 to 10000 Employees,$1 to $5 billion (USD),"First Horizon National Corp. offers capital market services, regional banking and wealth management through our First Horizon family of companies including First Horizon Bank, FHN Financial and First Horizon Advisors.
+
+First Horizon Bank is committed to making your banking experience the best it can be with innovative, convenient services and helpful, knowledgeable people. From your first checking account to the loan you need to build a home or business, we are committed to helping you at every stage of your financial life.
+
+With a network of approximately 250 bank locations across the Southeast, we make it easy to help you take good care of your money.",,,3.5,,,,Charlotte,NC,Network Analyst
+gd-1010316125353,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316125353,,Digital Optimization Analyst,"Sunbelt Rentals, Inc.","Fort Mill, SC, USA",2026-11-04,fulltime,direct_data,yearly,64790.0,89087.0,USD,False,,,organic,,,Commercial Equipment Services,https://www.glassdoor.com/Overview/W-EI_IE19665.htm,https://media.glassdoor.com/sql/19665/sunbelt-rentals-squareLogo-1654183230881.png,https://www.sunbeltrentals.com,"Fort Mill, SC",10000+ Employees,$10+ billion (USD),"We are Sunbelt Rentals, the fastest growing equipment rental company in North America. Sunbelt Rentals is constantly advancing the idea of how a company can best help its customers build and maintain the world around us. With a vast network of locations across North America and an expansive portfolio of products and services, we deliver solutions to support any job.
+
+1,300+ Locations
+20,000+ Team Members
+$15B Rental Fleet Investment",,,3.4,,,,Charlotte,NC,Network Analyst
+li-4479269622,linkedin,https://www.linkedin.com/jobs/view/4479269622,,Sr Analyst - Red Team Operator,"Lowe's Companies, Inc.","Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/lowe's-home-improvement,,,,,,,,,,,,,Charlotte,NC,Network Analyst
+li-4470686057,linkedin,https://www.linkedin.com/jobs/view/4470686057,,Security Engineer,RVO Health,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/rvohealth,,,,,,,,,,,,,Charlotte,NC,Network Analyst
+li-4476606486,linkedin,https://www.linkedin.com/jobs/view/4476606486,,Senior Security Consultant,IBM,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/ibm,,,,,,,,,,,,,Charlotte,NC,Network Analyst
+li-4478143430,linkedin,https://www.linkedin.com/jobs/view/4478143430,,Control Systems Engineer,HDR,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/hdr,,,,,,,,,,,,,Charlotte,NC,Network Analyst
+gd-1010316362441,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316362441,,"Site Services Manager, Data Center Operations",Apple,"Maiden, NC, USA",2026-11-04,fulltime,,,,,,False,,,organic,,,Computer Hardware Development,https://www.glassdoor.com/Overview/W-EI_IE1138.htm,https://media.glassdoor.com/sql/1138/apple-squarelogo-1595530154096.png,https://www.apple.com,"Cupertino, CA",10000+ Employees,$10+ billion (USD),"We’re a diverse collective of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways. And the same innovation that goes into our products also applies to our practices — strengthening our commitment to leave the world better than we found it. This is where your work can make a difference in people’s lives. Including your own.  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.",,,4.1,,,,Charlotte,NC,IT
+gd-1010316012972,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316012972,,Mobile Deployment Technician,viva,"Charlotte, NC, USA",2026-11-04,,direct_data,hourly,20.0,25.0,USD,False,,,organic,,,Advertising & Public Relations,https://www.glassdoor.com/Overview/W-EI_IE34263.htm,https://media.glassdoor.com/sql/34263/viva-squarelogo.png,https://www.vivamia.com,"Miami, FL",1 to 50 Employees,$1 to $5 million (USD),"The ViVa Partnership is an independent ad agency specializing in reaching the Hispanic market through offices in Dallas, Los Angeles, Miami, and San Antonio. The agency provides integrated advertising, public relations, marketing communications, and event marketing services for such clients as Dexatrim, FedEx, Neutrogena, and Uniroyal. The ViVa Partnership was founded in Miami in 1997.",,,3.3,,,,Charlotte,NC,IT
+gd-1010315949133,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315949133,,IT Operations Engineer I,Piedmont HealthCare PA,"Statesville, NC, USA",2026-11-04,fulltime,,,,,,False,,,organic,,,Health Care Services & Hospitals,https://www.glassdoor.com/Overview/W-EI_IE1920594.htm,https://media.glassdoor.com/sql/1920594/piedmont-healthcare-nc-squareLogo-1659466195527.png,http://www.piedmonthealthcare.com,"Statesville, NC",1001 to 5000 Employees,Unknown / Non-Applicable,   ,,,3.5,,,,Charlotte,NC,IT
+gd-1010315733165,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315733165,,Client Solutions Specialist- Lending & Finance Products,Moody's,"Charlotte, NC, USA",2026-11-04,fulltime,direct_data,yearly,67800.0,98400.0,USD,False,,,organic,,,Investment & Asset Management,https://www.glassdoor.com/Overview/W-EI_IE11303.htm,https://media.glassdoor.com/sql/11303/moody-s-corporation-squareLogo-1709740726444.png,https://www.moodys.com,"New York, NY",10000+ Employees,Unknown / Non-Applicable,"In a world shaped by increasingly interconnected risks, Moody’s helps customers develop a holistic view of these risks to advance their business and act decisively. With a rich history of expertise in global markets and a diverse workforce in more than 40 countries, Moody’s unites the brightest minds to turn today’s risks into tomorrow’s opportunities.",,,3.7,,,,Charlotte,NC,IT
+gd-1010316712679,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316712679,,Mobile Deployment Technician,Cilable,"Charlotte, NC, USA",2026-11-04,contract,direct_data,hourly,26.91,26.91,USD,False,,,organic,,,,https://www.glassdoor.com/Overview/W-EI_IE6872936.htm,https://media.glassdoor.com/sql/6872936/cilable-squarelogo-1653973060219.png,https://www.cilable.com,"Baltimore, MD",1 to 50 Employees,Unknown / Non-Applicable,,,,,,,,Charlotte,NC,IT
+gd-1010316139811,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316139811,,Cyber Security Architect,Truliant Federal Credit Union,"Charlotte, NC, USA",2026-11-04,fulltime,,,,,,False,,,organic,,,Banking & Lending,https://www.glassdoor.com/Overview/W-EI_IE118764.htm,https://media.glassdoor.com/sql/118764/truliant-federal-credit-union-squarelogo-1587653026876.png,https://www.truliantfcu.org,"Winston-Salem, NC",501 to 1000 Employees,Unknown / Non-Applicable,"Since 1952, we've been in the business of improving lives by putting our members first. 
+
+There’s no better way to do that than by supporting those who help them most: our teammates. Through competitive compensation, impressive benefits, and an engaging culture, our teammates continue to be #SimplyTheBest. That’s why we continually win awards for being a best place to work.
+
+At Truliant, we are stronger because of our pledge to inclusion and belonging. We recognize that we would not be the organization that we are today without the dedication and commitment of a wonderful and diverse group of people who further our mission to improve lives every day. 
+
+To sum up our company culture in one word: Relationships.
+
+Truliant offers more than a job. If you’re looking to begin or continue your career in a diverse, inclusive, supportive, community-minded award-winning workplace, you’re in the right place. 
+
+Read what some of our 900+ valued team members had to say:  
+
+
+“I love the support from upper management and that we truly do put our members first.” – John H.
+
+“Truliant is a great place to work. They have made ""working from home"" an option in many different departments, which has allowed me to continue working and supporting my family through these trying times. Thank you, Truliant, for saving us.” – Stephanie T.
+
+“Wonderful co-workers, great shared mission, awesome work (from home) environment, fantastic benefits.” – Joshua G.
+",,,4.0,,,,Charlotte,NC,IT
+gd-1010316004890,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316004890,,Cloud Infrastructure Operations Manager,Vanguard,"Charlotte, NC, USA",2026-11-04,fulltime,direct_data,yearly,102172.0,140293.0,USD,False,,,organic,,,Investment & Asset Management,https://www.glassdoor.com/Overview/W-EI_IE4084.htm,https://media.glassdoor.com/sql/4084/vanguard-squareLogo-1612802515459.png,http://www.vanguard.com,"Malvern, PA",10000+ Employees,Unknown / Non-Applicable,"Vanguard offers investments, advice, and retirement services to more than 50 million individual
+investors around the globe—directly, through workplace plans, and through financial intermediaries.
+Since our founding in 1975, we’ve been on a mission helping investors achieve their goals. We’re built
+differently. Vanguard is investor-owned, meaning that we’re owned by our funds, which are owned by
+our fund shareholder clients.
+
+With no outside shareholders to answer to, we make decisions—including keeping investing costs as low
+as possible—with our clients’ needs in mind. Whether you’re investing for your first house, college for
+your kids, or a comfortable retirement, you can be confident we’re on your side. That’s the value of
+ownership!
+
+We are a community who think—and feel—differently about investing. Together, we’re changing the
+way the world invests.",,,3.7,,,,Charlotte,NC,IT
+gd-1010315925307,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315925307,,Mobile Deployment Technician,Intellibee,"Charlotte, NC, USA",2026-11-04,,direct_data,yearly,45148.0,61286.0,USD,False,,,organic,,,,https://www.glassdoor.com/Overview/W-EI_IE2360395.htm,https://media.glassdoor.com/sql/2360395/intellibee-squarelogo-1560860255360.png,https://www.intellibee.com,"Detroit, MI",1 to 50 Employees,Unknown / Non-Applicable,,,,3.4,,,,Charlotte,NC,IT
+gd-1010315674779,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315674779,,Asset Management Manager,Amwins,"Charlotte, NC, USA",2026-11-04,fulltime,direct_data,yearly,93301.0,143817.0,USD,False,,,organic,,,Insurance Agencies & Brokerages,https://www.glassdoor.com/Overview/W-EI_IE40083.htm,https://media.glassdoor.com/sql/40083/amwins-group-squareLogo-1616083204705.png,https://www.amwins.com,"Charlotte, NC",1001 to 5000 Employees,$1 to $5 billion (USD),"Headquartered in Charlotte, North Carolina, AmWINS is a leader in the specialty insurance brokerage industry with offices in 118 locations across 12 countries.   The firm has expertise across a diversified mix of property, casualty, group benefits and specialty insurance products. AmWINS also offers value-added services to support its products, including product development, underwriting, premium/claims administration and actuarial services. 
+
+With more than 5,400 employees, AmWINS currently receives more than 1,000,000 submissions a year from retail insurance agents across the United States. AmWINS has twice been honored by the Charlotte Business Journal for being the region’s fastest growing company by dollar revenue growth, and it has become the industry’s largest specialty insurance distributor placing more than $17.4 billion in premium placements annually.",,,4.2,,,,Charlotte,NC,IT
+gd-1010316104262,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316104262,,Field Support Technician II,OneOncology,"Hickory, NC, USA",2026-11-04,fulltime,direct_data,yearly,48017.0,62321.0,USD,False,,,organic,,,Health Care Services & Hospitals,https://www.glassdoor.com/Overview/W-EI_IE2424101.htm,https://media.glassdoor.com/sql/2424101/oneoncology-squarelogo-1560441332706.png,https://www.oneoncology.com,"Nashville, TN",1001 to 5000 Employees,Unknown / Non-Applicable,"OneOncology is a partnership of independent community oncology practices, technology, and finance experts committed to driving the future of cancer care delivery through a patient-centric, physician-driven, and technology-powered model to help improve the lives of everyone living with cancer.
+
+OneOncology empowers community oncology practices by supporting the entire continuum of care, including prevention and diagnosis, research and treatment, and long-term survivorship, palliative, and hospice care. Our technology is powered by the Flatiron suite of services to provide access to key clinical and operational data and the latest research via a cloud-based network. This comprehensive approach supports community oncologists’ transition to value-based care and commitment to providing their patients with access to best-in-class healthcare, close to home.
+
+For OneOncology, cancer is personal, and the mission is critical. Working together with world class oncologists, OneOncology looks to drive the change that community cancer needs through continual learning, creative and smart evolution, and a collective desire to positively impact the lives of every person touched by cancer.
+
+To learn more, visit www.oneoncology.com or follow us on Twitter @OneOncology.",,,3.6,,,,Charlotte,NC,IT
+in-3a4be4f68986e6ef,indeed,https://www.indeed.com/viewjob?jk=3a4be4f68986e6ef,,Mobile Deployment Technician,Cilable,"Charlotte, NC, USA",2026-11-04,contract,direct_data,hourly,26.91,26.91,USD,False,,,,,"**Position Overview**
+
+Mecklenburg County IT Services (ITS)is seeking an Endpoint MDM Deployment Contractor to support the County’s Unified Endpoint Management (UEM) team. The contractor will play a critical role in the County’s Evergreen Refresh initiative, ensuring secure, efficient, and seamless deployment of mobile devices to County end users. This individual will also serve as the first line of support for County-issued mobile devices.
+
+**Key Responsibilities**
+
+The Endpoint MDM Deployment Contractor will be responsible for, but not limited to:
+
+Configuring and setting up mobile devices in alignment with the County’s Evergreen Refresh program.
+
+Coordinating deployments of mobile devices to County end users, including scheduling, logistics, and user handoff.
+
+Receiving, processing, and tracking old devices for secure e-cycling and disposal according to County policy.
+
+Providing first-level support forbreak/fix issues, troubleshooting, and inquiries related to County-issued mobile devices.
+
+Collaborating with the Unified Endpoint Management team to ensure successful device transitions with minimal disruption to County operations.
+
+Maintaining accurate deployment, inventory, and support documentation.
+
+Ensuring compliance with County IT security standards and best practices during all deployment and support activities.
+
+**Qualifications**
+
+**Required Skills/Experience**
+
+Hands-on experience with mobile device deployment and configuration, including iOS platforms.
+
+Familiarity with Mobile Device Management (MDM) platforms (e.g., Microsoft Intune, AirWatch, or similar).
+
+Ability to provide effective end-user support with strong troubleshooting and problem-resolution skills.
+
+Strong organizational skills for managing device scheduling, tracking, and handoffs.
+
+Ability to work collaboratively in a team environment while providing excellent customer service.
+
+Strong attention to detail and commitment to IT security practices.
+
+Preferred Skills/Experience
+
+Prior experience with large-scale device deployment projects.
+
+Knowledge of County or government IT operations, policies, and security standards.
+
+Familiarity with device lifecycle management and e-cycling processes.
+
+Pay: $26.91 per hour
+
+Experience:
+
+* mobile device deployment: 3 years (Preferred)
+* (MDM) platforms (Microsoft Intune, AirWatch, or similar).: 3 years (Preferred)
+
+Work Location: In person",,https://www.indeed.com/cmp/Cilable,,https://cilable.com/,,,,,,,,,,,Charlotte,NC,IT
+li-4434803335,linkedin,https://www.linkedin.com/jobs/view/4434803335,,FSO - Tech Cons - Platforms - P&C Insurance - Guidewire - Technical Consultant - Manager,EY,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://uk.linkedin.com/company/ernstandyoung,,,,,,,,,,,,,Charlotte,NC,IT
+li-4470699052,linkedin,https://www.linkedin.com/jobs/view/4470699052,,IT Engineering and Strategy Transformation Senior Manager,Deloitte,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/deloitte,,,,,,,,,,,,,Charlotte,NC,IT
+li-4467642212,linkedin,https://www.linkedin.com/jobs/view/4467642212,,Informatica ETL Developer,Tata Consultancy Services,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://in.linkedin.com/company/tata-consultancy-services,,,,,,,,,,,,,Charlotte,NC,IT
+li-4468174584,linkedin,https://www.linkedin.com/jobs/view/4468174584,,Java Developer,Tata Consultancy Services,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://in.linkedin.com/company/tata-consultancy-services,,,,,,,,,,,,,Charlotte,NC,IT
+li-4471255096,linkedin,https://www.linkedin.com/jobs/view/4471255096,,Business Systems Analyst,Daimler Truck North America,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/daimlertrucknorthamerica,,,,,,,,,,,,,Charlotte,NC,IT
+li-4470205384,linkedin,https://www.linkedin.com/jobs/view/4470205384,,IT Analyst I - Central Service Desk,MacLean Power Systems,"Fort Mill, SC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/maclean-power-systems,,,,,,,,,,,,,Charlotte,NC,IT
+li-4427128586,linkedin,https://www.linkedin.com/jobs/view/4427128586,,Capital Projects Technical Senior Consultant - Procore Implementation,Deloitte,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/deloitte,,,,,,,,,,,,,Charlotte,NC,IT
+li-4487243461,linkedin,https://www.linkedin.com/jobs/view/4487243461,,"Director, Business Systems & AI Enablement (Remote EST – United States)",Partnerize,"Charlotte, NC, USA",2026-11-04,,,,,,,True,,,,,,,https://www.linkedin.com/company/partnerize,,,,,,,,,,,,,Charlotte,NC,IT
+li-4487287222,linkedin,https://www.linkedin.com/jobs/view/4487287222,,Mobile Deployment Technician,"IDR, Inc.","Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/idrinc,,,,,,,,,,,,,Charlotte,NC,IT
+li-4478187461,linkedin,https://www.linkedin.com/jobs/view/4478187461,,"Senior Software Engineer, Backend (Lakehouse Infra)",Affirm,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/affirm,,,,,,,,,,,,,Charlotte,NC,IT
+li-4486392212,linkedin,https://www.linkedin.com/jobs/view/4486392212,,Client Support Specialist,Minutehouse,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/minutehouse,,,,,,,,,,,,,Charlotte,NC,Helpdesk
+li-4479255616,linkedin,https://www.linkedin.com/jobs/view/4479255616,,Customer Care Representative,Lennar,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/lennar,,,,,,,,,,,,,Charlotte,NC,Helpdesk
+li-4420753437,linkedin,https://www.linkedin.com/jobs/view/4420753437,,"Merchant Services Representative - Charlotte, NC Market",TowneBank,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/townebank,,,,,,,,,,,,,Charlotte,NC,Helpdesk
+li-4485096625,linkedin,https://www.linkedin.com/jobs/view/4485096625,,Technical Customer Service Consultant,Blue Lynx,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://nl.linkedin.com/company/bluelynx,,,,,,,,,,,,,Charlotte,NC,Helpdesk
+li-4366671328,linkedin,https://www.linkedin.com/jobs/view/4366671328,,Motion Automation Intelligence- Field Services Support,Motion,"Salisbury, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/motionindustries,,,,,,,,,,,,,Charlotte,NC,Helpdesk
+li-4486391209,linkedin,https://www.linkedin.com/jobs/view/4486391209,,Mobile Deployment Technician,"INFT Solutions, Inc","Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/inft-solutions-inc,,,,,,,,,,,,,Charlotte,NC,Helpdesk
+li-4477509929,linkedin,https://www.linkedin.com/jobs/view/4477509929,,Applications Engineering Support Specialist,Atlas Copco Group,"Rock Hill, SC, USA",2026-11-04,,,,,,,False,,,,,,,https://se.linkedin.com/company/atlas-copco-group,,,,,,,,,,,,,Charlotte,NC,Helpdesk
+li-4481522256,linkedin,https://www.linkedin.com/jobs/view/4481522256,,Customer Care Specialist,"Sunbelt Rentals, Inc.","Fort Mill, SC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/sunbelt-rentals,,,,,,,,,,,,,Charlotte,NC,Helpdesk
+li-4468911038,linkedin,https://www.linkedin.com/jobs/view/4468911038,,"Specialist, Procurement Systems and Processes",Scout Motors Inc.,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/scoutmotors,,,,,,,,,,,,,Charlotte,NC,Helpdesk
+li-4479215143,linkedin,https://www.linkedin.com/jobs/view/4479215143,,Lead Software Engineer-Information Security,Wells Fargo,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/wellsfargo,,,,,,,,,,,,,Charlotte,NC,Security Engineer
+li-4468173759,linkedin,https://www.linkedin.com/jobs/view/4468173759,,"Senior Engineer -AI Security, Systems Engineering & Developer Productivity",Bank of America,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/bank-of-america,,,,,,,,,,,,,Charlotte,NC,Security Engineer
+li-4470619931,linkedin,https://www.linkedin.com/jobs/view/4470619931,,"Senior Engineer- AI Security, Systems Engineering & Developer Productivity",Bank of America,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/bank-of-america,,,,,,,,,,,,,Charlotte,NC,Security Engineer
+li-4460034842,linkedin,https://www.linkedin.com/jobs/view/4460034842,,Platform Developer,Judi Health,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/judi-health,,,,,,,,,,,,,Charlotte,NC,Security Engineer
+li-4486396399,linkedin,https://www.linkedin.com/jobs/view/4486396399,,SAP GRC Consultant,Vertex Elite LLC,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/vertex-elite-llc,,,,,,,,,,,,,Charlotte,NC,Security Engineer
+li-4467638380,linkedin,https://www.linkedin.com/jobs/view/4467638380,,"SRE Operations Lead - AWS, GitLab & AIOps",Tata Consultancy Services,"Charlotte, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://in.linkedin.com/company/tata-consultancy-services,,,,,,,,,,,,,Charlotte,NC,SOC
+li-4486397146,linkedin,https://www.linkedin.com/jobs/view/4486397146,,IOT Architect,Highbrow Technology Inc,"North Carolina, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/highbrow-technology-inc,,,,,,,,,,,,,Durham,NC,Network Engineer
+li-4470672852,linkedin,https://www.linkedin.com/jobs/view/4470672852,,Telecommunications Section Manager,Jacobs,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/jacobs,,,,,,,,,,,,,Durham,NC,Network Engineer
+li-4485073611,linkedin,https://www.linkedin.com/jobs/view/4485073611,,Functional Analyst- Order to Cash / Order Management & Fulfillment,NetApp,"Morrisville, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/netapp,,,,,,,,,,,,,Durham,NC,IT
+li-4486366627,linkedin,https://www.linkedin.com/jobs/view/4486366627,,Field Application Scientist- Mid-Atlantic,PerkinElmer,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/perkinelmer,,,,,,,,,,,,,Durham,NC,Helpdesk
+li-4479214257,linkedin,https://www.linkedin.com/jobs/view/4479214257,,PROPEL Project Specialist I (Intern) United States,Cisco,"Durham, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/cisco,,,,,,,,,,,,,Durham,NC,Helpdesk
+li-4479039879,linkedin,https://www.linkedin.com/jobs/view/4479039879,,Software Engineer III,Motion Recruitment,"Durham, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/motion-recruitment-partners,,,,,,,,,,,,,Durham,NC,Security Engineer
+li-4479410611,linkedin,https://www.linkedin.com/jobs/view/4479410611,,Principal Azure DevOps Engineer,Tekniforce,Raleigh-Durham-Chapel Hill Area,2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/tekniforce,,,,,,,,,,,,,Durham,NC,Security Engineer
+li-4486369539,linkedin,https://www.linkedin.com/jobs/view/4486369539,,"Software Engineer III, Site Reliability Engineering",Google,"Raleigh, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/google,,,,,,,,,,,,,Durham,NC,NOC
+li-4486368701,linkedin,https://www.linkedin.com/jobs/view/4486368701,,Workload Operations Technician and Customer Relations Manager,SAIC,"Fayetteville, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/saicinc,,,,,,,,,,,,,Fayetteville,NC,Systems Administrator
+gd-1010316359282,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316359282,,Workload Operations Technician and Customer Relations Manager,SAIC,"Fayetteville, NC, USA",2026-11-04,fulltime,direct_data,yearly,40001.0,80000.0,USD,False,,,organic,,,Information Technology Support Services,https://www.glassdoor.com/Overview/W-EI_IE41130.htm,https://media.glassdoor.com/sql/41130/saic-squareLogo-1747750449267.png,http://www.saic.com,"Reston, VA",10000+ Employees,$5 to $10 billion (USD),"SAIC® is a premier mission integrator focused on advancing the power of technology and innovation to serve and protect our world. Our robust portfolio of offerings across the defense, space, intelligence, and civilian markets includes secure high-end solutions in mission IT, enterprise IT, engineering services, and professional services. We integrate emerging technology, rapidly and securely, into mission critical operations that modernize and enable critical national imperatives.
+
+We are approximately 23,000 strong; driven by mission, united by purpose, and inspired by opportunities. Headquartered in Reston, Virginia, SAIC has annual revenues of approximately $7.3 billion. For more information, visit saic.com. For ongoing news, please visit our newsroom.",,,3.9,,,,Fayetteville,NC,IT
+gd-1010315755762,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315755762,,Field Service Analyst,SHINE Systems,"Fayetteville, NC, USA",2026-11-04,,direct_data,yearly,100000.0,100000.0,USD,False,,,organic,,,Business Consulting,https://www.glassdoor.com/Overview/W-EI_IE736996.htm,https://media.glassdoor.com/sql/736996/shine-systems-and-technologies-squarelogo-1550845632093.png,https://www.shinesystems.com,"Charlottesville, VA",51 to 200 Employees,Unknown / Non-Applicable,"New threats require new skills. SHINE Systems deploys and manages specialists in Mission Support, Cybersecurity, Multi-intelligence Analysis, and Software engineering stateside and in hazardous areas around the globe.
+
+We support federal clients with the critical skills and information to empower decisive action for over a decade.
+
+SHINE Systems is a three-time INC 500|5000 company and has been ranked #3 on the Washington Technology “Fast 50” fastest-growing small businesses in the government market. We have also been the recipient of the Taylor Murphy Resilience Award, and in 2020 the U.S. Department of Labor awarded us the Gold Award for our continued commitment to hiring U.S. Veterans. 
+
+We remain dedicated to helping give back to our community as we grow our company. We are a proud SBA-certified HUBZone small business headquartered in Charlottesville, Virginia.",,,4.0,,,,Fayetteville,NC,IT
+li-4486392368,linkedin,https://www.linkedin.com/jobs/view/4486392368,,Data Engineer – PySpark,Highbrow Technology Inc,"North Carolina, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/highbrow-technology-inc,,,,,,,,,,,,,Fayetteville,NC,IT
+li-4474530142,linkedin,https://www.linkedin.com/jobs/view/4474530142,,"Staff Software Engineer, AiDP",DDN,"North Carolina, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/ddn,,,,,,,,,,,,,Fayetteville,NC,IT
+li-4487261020,linkedin,https://www.linkedin.com/jobs/view/4487261020,,MES Lead,SimoTech,"North Carolina, USA",2026-11-04,,,,,,,False,,,,,,,https://ie.linkedin.com/company/simotech,,,,,,,,,,,,,Fayetteville,NC,IT
+li-4470219283,linkedin,https://www.linkedin.com/jobs/view/4470219283,,"Data Center Technical Trainer (DCEO Trainer-CLT), Data Center Communities (DCC)",Amazon Web Services (AWS),"Hamlet, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/amazon-web-services,,,,,,,,,,,,,Fayetteville,NC,IT
+li-4478145324,linkedin,https://www.linkedin.com/jobs/view/4478145324,,ISG Acquisition Sales,Lenovo,"North Carolina, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/lenovo,,,,,,,,,,,,,Fayetteville,NC,IT
+li-4483488192,linkedin,https://www.linkedin.com/jobs/view/4483488192,,Java AI developer,BeaconFire Inc.,"North Carolina, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/beaconfireinc,,,,,,,,,,,,,Fayetteville,NC,IT
+li-4487276581,linkedin,https://www.linkedin.com/jobs/view/4487276581,,"Engineering Operation Technician, Amazon Web Services",Amazon Web Services (AWS),"Hamlet, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/amazon-web-services,,,,,,,,,,,,,Fayetteville,NC,IT
+gd-1010316197584,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316197584,,Senior Systems Integration Engineer – Security Systems,,"Southern Pines, NC, USA",2026-11-04,,direct_data,yearly,111871.0,155113.0,USD,False,,,organic,,,Aerospace & Defense,https://www.glassdoor.com/Overview/W-EI_IE135302.htm,https://media.glassdoor.com/sql/135302/applied-research-associates-squarelogo.png,https://www.ara.com,"Albuquerque, NM",1001 to 5000 Employees,$100 to $500 million (USD),"Founded in 1979, Applied Research Associates, Inc. (ARA) offers innovative technologies and solutions to problems to improve our safety, security, and way of life. Our employee-owners, most of whom have advanced degrees in engineering and the physical sciences, have the expertise to tackle the most challenging technical problems.
+
+With offices throughout the United States and Canada, ARA is globally recognized for applying technically-excellent, in-depth and diversified research, engineering, and technical support services to provide answers to complex problems. ARA approaches every project as an opportunity to go beyond expectations by delivering solutions that accomplish objectives and lead to new possibilities.",,,3.2,,,,Fayetteville,NC,Security Engineer
+gd-1010315924366,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315924366,,Sr. Systems Integration Engineer - Security,RMGS Inc,"Aberdeen, NC, USA",2026-11-04,,direct_data,yearly,88651.0,135236.0,USD,False,,,organic,,,Aerospace & Defense,https://www.glassdoor.com/Overview/W-EI_IE985603.htm,https://media.glassdoor.com/sql/985603/rmgs-va-squarelogo-1505284849986.png,https://www.rmgsinc.com,"Virginia Beach, VA",51 to 200 Employees,$5 to $25 million (USD),,,,3.7,,,,Fayetteville,NC,Security Engineer
+li-4451343298,linkedin,https://www.linkedin.com/jobs/view/4451343298,,SharePoint Administrator,General Dynamics Information Technology,"North Liberty, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/gdit,,,,,,,,,,,,,Greensboro,NC,Systems Administrator
+li-4486366952,linkedin,https://www.linkedin.com/jobs/view/4486366952,,Senior Network Automation & Platform Engineer,Kaiser Permanente,"Greensboro, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/kaiser-permanente,,,,,,,,,,,,,Greensboro,NC,Systems Administrator
+li-4478152467,linkedin,https://www.linkedin.com/jobs/view/4478152467,,Senior IFS Technical Lead,Environmental Air Systems,"High Point, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/eascompanies,,,,,,,,,,,,,Greensboro,NC,Systems Administrator
+li-4486369983,linkedin,https://www.linkedin.com/jobs/view/4486369983,,"IT Consultant II - Salesforce experience needed - Greensboro, NC",Kaiser Permanente,"Greensboro, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/kaiser-permanente,,,,,,,,,,,,,Greensboro,NC,Systems Administrator
+li-4403750233,linkedin,https://www.linkedin.com/jobs/view/4403750233,,Analyst I Service Desk,Womble Bond Dickinson (US) LLP,"Winston-Salem, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/womble-bond-dickinson-us-llp,,,,,,,,,,,,,Greensboro,NC,Systems Administrator
+li-4473555011,linkedin,https://www.linkedin.com/jobs/view/4473555011,,"Associate Director, IT GxP & Quality Systems",ProKidney Corp.,"Winston-Salem, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/prokidney-corp,,,,,,,,,,,,,Greensboro,NC,Systems Administrator
+li-4487251480,linkedin,https://www.linkedin.com/jobs/view/4487251480,,Technology Workforce Management Analyst,Ahold Delhaize USA,"Salisbury, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/ahold-delhaize-usa,,,,,,,,,,,,,Greensboro,NC,Systems Administrator
+li-4452044282,linkedin,https://www.linkedin.com/jobs/view/4452044282,,"Analyst, Warehouse WMS",Herbalife,"Winston-Salem, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/herbalife,,,,,,,,,,,,,Greensboro,NC,Systems Administrator
+li-4486371897,linkedin,https://www.linkedin.com/jobs/view/4486371897,,Azure Public Infrastructure as a Service Architect,Kaiser Permanente,"Greensboro, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/kaiser-permanente,,,,,,,,,,,,,Greensboro,NC,Systems Administrator
+li-4478129977,linkedin,https://www.linkedin.com/jobs/view/4478129977,,Senior Control Systems Engineer,HDR,"Winston-Salem, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/hdr,,,,,,,,,,,,,Greensboro,NC,Network Engineer
+li-4478139634,linkedin,https://www.linkedin.com/jobs/view/4478139634,,Control Systems Engineer,HDR,"Winston-Salem, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/hdr,,,,,,,,,,,,,Greensboro,NC,Network Engineer
+gd-1010316279985,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316279985,,Senior Network Automation & Platform Engineer,Kaiser Permanente,"Greensboro, NC, USA",2026-11-04,fulltime,direct_data,yearly,121000.0,156530.0,USD,False,,,organic,,,Health Care Services & Hospitals,https://www.glassdoor.com/Overview/W-EI_IE19466.htm,https://media.glassdoor.com/sql/19466/kaiser-permanente-squarelogo-1500927016465.png,http://www.kp.org/careers,"Oakland, CA",10000+ Employees,$10+ billion (USD),"As Kaiser Permanente celebrates 80 years of advancing health and care since our founding in 1945, we reflect on the legacy built by the more than 235,000 passionate professionals who have shaped our journey—each one contributing to a stronger, healthier future for our members and communities.
+
+For eight decades, Kaiser Permanente has remained steadfast in its mission to provide high-quality, affordable health care and to improve the health of the communities we serve. With over 650 locations across 8 states and Washington, D.C., our reach is vast—but our focus remains deeply personal.
+
+We believe that it’s not just what we do, but how we do it that defines us. Every connection, every decision, and every effort to go above and beyond adds up to what we call Extraordinary Moments.
+
+As we look ahead to the future of health care, we carry forward the lessons, pride, and people-centered mission that have shaped our first 80 years. Because at Kaiser Permanente, every role matters—and every extraordinary moment starts with someone like you.
+",,,3.8,,,,Greensboro,NC,Network Analyst
+gd-1010315848995,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315848995,,IT Systems Analyst,First Horizon Bank,"Winston-Salem, NC, USA",2026-11-04,fulltime,direct_data,yearly,70562.0,106701.0,USD,False,,,organic,,,Banking & Lending,https://www.glassdoor.com/Overview/W-EI_IE317187.htm,https://media.glassdoor.com/sql/317187/first-horizon-squarelogo-1572551112326.png,https://www.firsthorizon.com,"Memphis, TN",5001 to 10000 Employees,$1 to $5 billion (USD),"First Horizon National Corp. offers capital market services, regional banking and wealth management through our First Horizon family of companies including First Horizon Bank, FHN Financial and First Horizon Advisors.
+
+First Horizon Bank is committed to making your banking experience the best it can be with innovative, convenient services and helpful, knowledgeable people. From your first checking account to the loan you need to build a home or business, we are committed to helping you at every stage of your financial life.
+
+With a network of approximately 250 bank locations across the Southeast, we make it easy to help you take good care of your money.",,,3.5,,,,Greensboro,NC,Network Analyst
+gd-1010316279964,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316279964,,"IT Consultant II - Salesforce experience needed - Greensboro, NC",Kaiser Permanente,"Greensboro, NC, USA",2026-11-04,fulltime,direct_data,hourly,33.36,43.15,USD,False,,,organic,,,Health Care Services & Hospitals,https://www.glassdoor.com/Overview/W-EI_IE19466.htm,https://media.glassdoor.com/sql/19466/kaiser-permanente-squarelogo-1500927016465.png,http://www.kp.org/careers,"Oakland, CA",10000+ Employees,$10+ billion (USD),"As Kaiser Permanente celebrates 80 years of advancing health and care since our founding in 1945, we reflect on the legacy built by the more than 235,000 passionate professionals who have shaped our journey—each one contributing to a stronger, healthier future for our members and communities.
+
+For eight decades, Kaiser Permanente has remained steadfast in its mission to provide high-quality, affordable health care and to improve the health of the communities we serve. With over 650 locations across 8 states and Washington, D.C., our reach is vast—but our focus remains deeply personal.
+
+We believe that it’s not just what we do, but how we do it that defines us. Every connection, every decision, and every effort to go above and beyond adds up to what we call Extraordinary Moments.
+
+As we look ahead to the future of health care, we carry forward the lessons, pride, and people-centered mission that have shaped our first 80 years. Because at Kaiser Permanente, every role matters—and every extraordinary moment starts with someone like you.
+",,,3.8,,,,Greensboro,NC,IT
+gd-1010315851826,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315851826,,Field Support / Desktop Support,Noblesoft Technologies Inc,"Greensboro, NC, USA",2026-11-04,contract,direct_data,hourly,23.0,25.0,USD,False,,,organic,,,Information Technology Support Services,https://www.glassdoor.com/Overview/W-EI_IE287002.htm,https://media.glassdoor.com/sql/287002/noblesoft-technologies-inc-squareLogo-1661146345083.png,https://www.noblesoft.com,"Flower Mound, TX",51 to 200 Employees,$5 to $25 million (USD),"Noblesoft is thrilled to announce that the prestigious Inc. magazine has ranked us amongst the ""Fastest Growing 500 Private Companies in USA"" for the third time in a row. 
+
+Noblesoft Technologies Inc. (""Noblesoft"") is a Texas-USA headquartered provider of custom software development with our IT professionals located in USA and India. Our data scientists and data engineers can help your business by solving today's problems and unlocking tomorrow's possibilities.",,,4.4,,,,Greensboro,NC,IT
+gd-1010316139810,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316139810,,Cyber Security Architect,Truliant Federal Credit Union,"Winston-Salem, NC, USA",2026-11-04,fulltime,,,,,,False,,,organic,,,Banking & Lending,https://www.glassdoor.com/Overview/W-EI_IE118764.htm,https://media.glassdoor.com/sql/118764/truliant-federal-credit-union-squarelogo-1587653026876.png,https://www.truliantfcu.org,"Winston-Salem, NC",501 to 1000 Employees,Unknown / Non-Applicable,"Since 1952, we've been in the business of improving lives by putting our members first. 
+
+There’s no better way to do that than by supporting those who help them most: our teammates. Through competitive compensation, impressive benefits, and an engaging culture, our teammates continue to be #SimplyTheBest. That’s why we continually win awards for being a best place to work.
+
+At Truliant, we are stronger because of our pledge to inclusion and belonging. We recognize that we would not be the organization that we are today without the dedication and commitment of a wonderful and diverse group of people who further our mission to improve lives every day. 
+
+To sum up our company culture in one word: Relationships.
+
+Truliant offers more than a job. If you’re looking to begin or continue your career in a diverse, inclusive, supportive, community-minded award-winning workplace, you’re in the right place. 
+
+Read what some of our 900+ valued team members had to say:  
+
+
+“I love the support from upper management and that we truly do put our members first.” – John H.
+
+“Truliant is a great place to work. They have made ""working from home"" an option in many different departments, which has allowed me to continue working and supporting my family through these trying times. Thank you, Truliant, for saving us.” – Stephanie T.
+
+“Wonderful co-workers, great shared mission, awesome work (from home) environment, fantastic benefits.” – Joshua G.
+",,,4.0,,,,Greensboro,NC,IT
+gd-1010315879103,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315879103,,GRC Analyst,"Hayward Industries, Inc.","Clemmons, NC, USA",2026-11-04,fulltime,direct_data,yearly,60878.0,90566.0,USD,False,,,organic,,,Consumer Product Manufacturing,https://www.glassdoor.com/Overview/W-EI_IE4381.htm,https://media.glassdoor.com/sql/4381/hayward-industries-squarelogo.png,https://www.hayward.com,"Elizabeth, NJ",1001 to 5000 Employees,$500 million to $1 billion (USD),"Hayward Pool Products, a division of Hayward Industries, Inc. is the largest manufacturer of residential swimming pool equipment in the world, with a significant presence in the commercial pool market that is continuously growing.  Headquartered in Elizabeth, New Jersey, Hayward designs, manufactures and markets a full line of residential and commercial pool and spa equipment including pumps, filters, heating, cleaners, salt chlorinators, automation, lighting, safety, flow control  and energy solutions. 
+  
+ 
+The company, which has built its brand on innovation, energy-efficiency, safety and reliability, includes such brands as Salt &amp; Swim&reg; 3C, EcoStar&reg;, EcoStar&reg; C TriStar&reg;, Super Pump&reg;, ProLogic&reg;, AquaConnect&reg;, HeatPro&reg;, ColorLogic&reg;, CrystaLogic™, CAT Controllers&reg;, AquaRite&reg;, Navigator&reg; Pro, PoolVac XL™, TigerShark&reg;, among others.   
+
+Hayward products are sold throughout the U.S., Canada, Asia, Australia, Latin America and the Middle East.",,,3.4,,,,Greensboro,NC,IT
+li-4469972372,linkedin,https://www.linkedin.com/jobs/view/4469972372,,Cyber Defense Analyst,Allegacy Financial,"Winston-Salem, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/allegacyfinancial,,,,,,,,,,,,,Greensboro,NC,IT
+li-4468792068,linkedin,https://www.linkedin.com/jobs/view/4468792068,,Digital Operations Coordinator,"Kontoor Brands, Inc.","Greensboro, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/kontoor-brands,,,,,,,,,,,,,Greensboro,NC,IT
+li-4476461375,linkedin,https://www.linkedin.com/jobs/view/4476461375,,Enterprise Account Executive,Lumos Fiber,"High Point, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/lumosfiber,,,,,,,,,,,,,Greensboro,NC,IT
+li-4479200973,linkedin,https://www.linkedin.com/jobs/view/4479200973,,Field Technician,Spectrum,"Winston-Salem, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/spectrum,,,,,,,,,,,,,Greensboro,NC,IT
+li-4481871740,linkedin,https://www.linkedin.com/jobs/view/4481871740,,Technical Project Manager Intern - Summer 2027,CACI International Inc,"High Point, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/caci-international-inc,,,,,,,,,,,,,Greensboro,NC,IT
+li-4470236402,linkedin,https://www.linkedin.com/jobs/view/4470236402,,Protégé Trainee - Digital Transformation Project Support,Maxis,"Pinnacle, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://my.linkedin.com/company/maxis,,,,,,,,,,,,,Greensboro,NC,IT
+li-4475039990,linkedin,https://www.linkedin.com/jobs/view/4475039990,,Service Administrator,ZIEHL-ABEGG Inc. North America,"Winston-Salem, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/ziehl-abegg-inc-north-america,,,,,,,,,,,,,Greensboro,NC,Helpdesk
+li-4460029958,linkedin,https://www.linkedin.com/jobs/view/4460029958,,Customer Support Manager - Plains USA,Prevost,"Greensboro, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://ca.linkedin.com/company/prevost,,,,,,,,,,,,,Greensboro,NC,Helpdesk
+li-4411549226,linkedin,https://www.linkedin.com/jobs/view/4411549226,,"Registered Client Service Associate-Winston-Salem, NC",Raymond James,"Winston-Salem, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/raymond-james-financial-inc-,,,,,,,,,,,,,Greensboro,NC,Helpdesk
+li-4486389626,linkedin,https://www.linkedin.com/jobs/view/4486389626,,Order Processing Specialist,"Advanced Personnel Resources, Inc.",Greensboro--Winston-Salem--High Point Area,2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/advanced-personnel-resources-inc,,,,,,,,,,,,,Greensboro,NC,Helpdesk
+li-4366678112,linkedin,https://www.linkedin.com/jobs/view/4366678112,,Motion Automation Intelligence- Field Services Support,Motion,"Salisbury, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/motionindustries,,,,,,,,,,,,,Greensboro,NC,Helpdesk
+gd-1010316074044,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316074044,,"Engineer I, PCS Applications Engineering",Schneider Electric,"Lexington, NC, USA",2026-11-04,fulltime,,,,,,False,,,organic,,,Energy & Utilities,https://www.glassdoor.com/Overview/W-EI_IE3956.htm,https://media.glassdoor.com/sql/3956/schneider-electric-squareLogo-1767802297178.png,https://www.se.com/ww/en,"Paris, France",10000+ Employees,$10+ billion (USD),"Schneider Electric is a global energy technology leader advancing electrification, automation, and digital intelligence to create a more sustainable, efficient, and resilient future. Our technologies help homes, buildings, data centers, factories, infrastructure, and energy systems operate more intelligently.
+
+With opportunities across engineering, manufacturing, supply chain, field services, software, sales, sustainability, and corporate functions, our people are solving real-world energy challenges at scale. As an Impact Company, we pair performance with purpose and foster an inclusive workplace where people can grow, innovate, and turn ambition into meaningful impact.",,,4.2,,,,Greensboro,NC,SOC
+li-4487253197,linkedin,https://www.linkedin.com/jobs/view/4487253197,,"Delivery Success Leader, Enterprise Systems",Labcorp,"Durham, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/labcorp,,,,,,,,,,,,,West Raleigh,NC,IT
+gd-1010316360551,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316360551,,Design Verification Engineer,Apple,"Cary, NC, USA",2026-11-04,fulltime,direct_data,yearly,145209.0,196272.0,USD,False,,,organic,,,Computer Hardware Development,https://www.glassdoor.com/Overview/W-EI_IE1138.htm,https://media.glassdoor.com/sql/1138/apple-squarelogo-1595530154096.png,https://www.apple.com,"Cupertino, CA",10000+ Employees,$10+ billion (USD),"We’re a diverse collective of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways. And the same innovation that goes into our products also applies to our practices — strengthening our commitment to leave the world better than we found it. This is where your work can make a difference in people’s lives. Including your own.  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.",,,4.1,,,,West Raleigh,NC,SOC
+gd-1010316365423,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010316365423,,IT Director/Business Partner,Thermo Fisher Scientific,"Wilmington, NC, USA",2026-11-04,fulltime,direct_data,yearly,161000.0,240000.0,USD,False,,,organic,,,Biotech & Pharmaceuticals,https://www.glassdoor.com/Overview/W-EI_IE658.htm,https://media.glassdoor.com/sql/658/thermo-fisher-scientific-squareLogo-1622674704280.png,https://corporate.thermofisher.com/us/en/index.html,"Waltham, MA",10000+ Employees,$10+ billion (USD),"Our global team of more than 125,000 colleagues delivers an unrivaled combination of innovative technologies, purchasing convenience and pharmaceutical services through our industry-leading brands, including Thermo Scientific, Applied Biosystems, Invitrogen, Fisher Scientific, Unity Lab Services, Patheon and PPD. For more information, please visit www.thermofisher.com.",,,3.5,,,,Wilmington,NC,IT
+gd-1010315960765,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1010315960765,,Tech Support Analyst,University of North Carolina Wilmington,"Wilmington, NC, USA",2026-11-04,fulltime,direct_data,yearly,67790.0,75500.0,USD,False,,,organic,,,Colleges & Universities,https://www.glassdoor.com/Overview/W-EI_IE473652.htm,https://media.glassdoor.com/sql/473652/unc-wilmington-squarelogo-1553242574162.png,https://www.uncw.edu,"Wilmington, NC",1001 to 5000 Employees,$25 to $100 million (USD),"The University of North Carolina Wilmington, the state's coastal university, is dedicated to the integration of teaching and mentoring with research and service. Our commitment to student engagement, creative inquiry, critical thinking, thoughtful expression and responsible citizenship is expressed in our baccalaureate and master's programs, as well as doctoral programs in areas of expertise that serve state needs. Our culture reflects our values of diversity and globalization, ethics and integrity, and excellence and innovation.",,,4.1,,,,Wilmington,NC,IT
+li-4485075754,linkedin,https://www.linkedin.com/jobs/view/4485075754,,IT Director/Business Partner,Thermo Fisher Scientific,"Wilmington, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/thermo-fisher-scientific,,,,,,,,,,,,,Wilmington,NC,IT
+li-4486093096,linkedin,https://www.linkedin.com/jobs/view/4486093096,,Business Analyst,QvalFocus Inc.,"Greater Jacksonville, NC Area",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/qvalfocus,,,,,,,,,,,,,Wilmington,NC,IT
+li-4478137993,linkedin,https://www.linkedin.com/jobs/view/4478137993,,Supply Tech Senior,Cherokee Federal,"Camp Lejeune, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/cherokee-federal,,,,,,,,,,,,,Wilmington,NC,IT
+li-4478143765,linkedin,https://www.linkedin.com/jobs/view/4478143765,,Supply Technician – SMAG Plant/COMSEC,Cherokee Federal,"Camp Lejeune, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/cherokee-federal,,,,,,,,,,,,,Wilmington,NC,IT
+li-4470639610,linkedin,https://www.linkedin.com/jobs/view/4470639610,,Nuclear Training Leader,GE Vernova,"Wilmington, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/gevernova,,,,,,,,,,,,,Wilmington,NC,IT
+li-4478147715,linkedin,https://www.linkedin.com/jobs/view/4478147715,,Supply Technician – Due and Status File (DASF),Cherokee Federal,"Camp Lejeune, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/cherokee-federal,,,,,,,,,,,,,Wilmington,NC,IT
+li-4478156193,linkedin,https://www.linkedin.com/jobs/view/4478156193,,Supply Technician – Deployed Support,Cherokee Federal,"Camp Lejeune, NC, USA",2026-11-04,,,,,,,False,,,,,,,https://www.linkedin.com/company/cherokee-federal,,,,,,,,,,,,,Wilmington,NC,IT

@@ -11,6 +11,7 @@ from jobspy import scrape_jobs
 OUTPUT_DIR = Path("output")
 SITES = ["indeed", "linkedin", "zip_recruiter", "glassdoor"]
 SEARCH_TERMS = ["Systems Administrator", "Network Engineer", "Network Administrator", "Network Analyst", "IT", "Helpdesk", "Security Engineer", "SOC", "NOC"]
+STATE = "NC"
 
 # Load cities
 gc = geonamescache.GeonamesCache()
@@ -24,7 +25,7 @@ us_cities = [
     }
     for city in cities.values()
     if city["countrycode"] == "US"
-       and city["admin1code"] == "AL"
+       and city["admin1code"] == STATE
     and city.get("population", 0) >= 100000
 ]
 
@@ -42,7 +43,7 @@ for city in us_cities:
                 search_term=term,
                 location=f'{city["name"]}, {city["state"]}',
                 distance=50,
-                hours_old=24,
+                hours_old=8,
                 country_indeed="USA",
             )
 
@@ -95,7 +96,8 @@ if all_jobs:
             keep="first",
         )
 
-    master_file = OUTPUT_DIR / "all_jobs.csv"
+    fileName = "" + STATE + "_all_jobs.csv"
+    master_file = OUTPUT_DIR / fileName
     master_file.parent.mkdir(parents=True, exist_ok=True)
 
     master_df.to_csv(master_file, index=False)
